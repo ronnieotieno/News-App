@@ -1,7 +1,7 @@
 package com.ronnie.domain.models
 
-data class Result(
-    val `abstract`: String,
+data class News(
+    val `abstract` : String,
     val byline: String,
     val created_date: String,
     val des_facet: List<String>,
@@ -9,7 +9,7 @@ data class Result(
     val item_type: String,
     val kicker: String,
     val material_type_facet: String,
-    val multimedia: List<Multimedia>,
+    val multimedia: List<Multimedia>?,
     val org_facet: List<String>,
     val per_facet: List<String>,
     val published_date: String,

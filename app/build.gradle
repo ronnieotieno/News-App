@@ -35,9 +35,6 @@ android {
         enableAggregatingTask = true
     }
     kotlinOptions {
-        jvmTarget = '1.8'
-    }
-    kotlinOptions {
         jvmTarget = "1.8"
         freeCompilerArgs += ["-Xopt-in=kotlin.RequiresOptIn"]
     }
@@ -72,9 +69,9 @@ dependencies {
     implementation project(':presentation')
 
     //dagger hilt
-    def hiltVersion = "2.38.1"
+    def hiltVersion = "2.42"
     def hiltCompiler = "1.0.0"
-    implementation "com.google.dagger:hilt-android:2.42"
+    implementation "com.google.dagger:hilt-android:$hiltVersion"
     kapt "com.google.dagger:hilt-android-compiler:$hiltVersion"
     kapt "androidx.hilt:hilt-compiler:$hiltCompiler"
     implementation "androidx.hilt:hilt-work:$hiltCompiler"
