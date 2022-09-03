@@ -1,30 +1,36 @@
 package com.ronnie.data.repository
 
 import com.ronnie.data.api.NewsApiService
+import com.ronnie.data.local.NewsDatabase
 import com.ronnie.domain.models.NetworkResult
 import com.ronnie.domain.models.News
-import com.ronnie.domain.models.UiState
 import com.ronnie.domain.models.uiView.NewsView
 import com.ronnie.domain.repository.NewsRepository
 import kotlinx.coroutines.Dispatchers
 import kotlinx.coroutines.flow.Flow
-import kotlinx.coroutines.flow.flow
 import kotlinx.coroutines.withContext
 import retrofit2.HttpException
 import javax.inject.Inject
 
-class NewsRepositoryImpl @Inject constructor(private val apiService: NewsApiService) : NewsRepository {
-    override suspend fun getNews(category: String): UiState {
+class NewsRepositoryImpl @Inject constructor(
+    private val apiService: NewsApiService, private val newsDB: NewsDatabase
+) : NewsRepository {
+
+    private val newsDao = newsDB.newsDao()
+
+    override suspend fun getNews(category: String): Pair<Flow<List<NewsView>>, Boolean> {
         val data = safeApiCall { apiService.getNews(category) }
 
-        return if (data is NetworkResult.Success) {
+        val hasError = if (data is NetworkResult.Success) {
             val newsViewList: List<NewsView> = data.value.results.map { news ->
-                news.toNewsView()
+                news.toNewsView(category)
             }
-            UiState(false, newsViewList, false)
+            newsDao.insertAll(newsViewList)
+            false
         } else {
-            UiState(false, emptyList(), true)
+            true
         }
+        return Pair(newsDao.getCategoryNews(category), hasError)
     }
 
     private suspend fun <T> safeApiCall(
@@ -50,11 +56,14 @@ class NewsRepositoryImpl @Inject constructor(private val apiService: NewsApiServ
         }
     }
 
-    private fun News.toNewsView() = NewsView(
+    private fun News.toNewsView(category: String) = NewsView(
         byline = byline,
-        multimedia = multimedia,
+        imageUrl = if (multimedia != null && multimedia?.isNotEmpty() == true) multimedia!![0].url else null,
         title = title,
         description = abstract,
-        url = url
+        url = url,
+        uri = uri,
+        createdAt = System.currentTimeMillis(),
+        category = category
     )
 }

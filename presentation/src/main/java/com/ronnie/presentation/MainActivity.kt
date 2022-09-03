@@ -21,7 +21,8 @@ import javax.inject.Inject
 
 @AndroidEntryPoint
 class MainActivity : ComponentActivity() {
-    @Inject lateinit var newsListUseCase: NewsListUseCase
+    @Inject
+    lateinit var newsListUseCase: NewsListUseCase
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
         setContent {
@@ -30,7 +31,7 @@ class MainActivity : ComponentActivity() {
                 Surface(
                     modifier = Modifier.fillMaxSize(),
                     color = MaterialTheme.colors.background
-                )  {
+                ) {
                     Surface2()
                 }
             }
@@ -40,7 +41,7 @@ class MainActivity : ComponentActivity() {
 
 @Composable
 fun Surface2(viewModel: NewsViewModel = hiltViewModel()) {
-    val news  = remember {
+    val news = remember {
         viewModel.getNews()
         viewModel.newsList
     }.collectAsState()
@@ -52,10 +53,10 @@ fun Surface2(viewModel: NewsViewModel = hiltViewModel()) {
                     ShowData("Loading")
                 }
                 news.value.data.isNotEmpty() -> {
-                    ShowData(news.value.toString())
+                    ShowData(news.value.data.size.toString() + news.value.error.toString())
                 }
                 news.value.error -> {
-                    ShowData("Error")
+                    ShowData(data = "ERROR")
                 }
             }
         })

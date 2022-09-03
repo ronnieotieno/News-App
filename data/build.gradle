@@ -75,4 +75,5 @@ dependencies {
     kapt "com.google.dagger:hilt-android-compiler:$hiltVersion"
     kapt "androidx.hilt:hilt-compiler:$hiltCompiler"
     implementation "androidx.hilt:hilt-work:$hiltCompiler"
+
 }

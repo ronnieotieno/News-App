@@ -1,10 +1,13 @@
 package com.ronnie.data.di
 
+import android.content.Context
 import com.ronnie.data.BuildConfig
 import com.ronnie.data.api.NewsApiService
+import com.ronnie.data.local.NewsDatabase
 import dagger.Module
 import dagger.Provides
 import dagger.hilt.InstallIn
+import dagger.hilt.android.qualifiers.ApplicationContext
 import dagger.hilt.components.SingletonComponent
 import okhttp3.Interceptor
 import okhttp3.OkHttpClient
@@ -45,7 +48,8 @@ object DataModule {
 
     @Provides
     @Singleton
-    fun providesApiService(retrofit: Retrofit): NewsApiService = retrofit.create(NewsApiService::class.java)
+    fun providesApiService(retrofit: Retrofit): NewsApiService =
+        retrofit.create(NewsApiService::class.java)
 
     private val apiInterceptor = Interceptor { chain ->
         val request = chain.request().newBuilder()
@@ -55,5 +59,11 @@ object DataModule {
             .build()
         request.url(url)
         chain.proceed(request.build())
+    }
+
+    @Provides
+    @Singleton
+    fun providesDB(@ApplicationContext appContext: Context): NewsDatabase {
+        return NewsDatabase.invoke(appContext)
     }
 }

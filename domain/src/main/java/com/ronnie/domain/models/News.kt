@@ -1,7 +1,7 @@
 package com.ronnie.domain.models
 
 data class News(
-    val `abstract` : String,
+    val `abstract`: String,
     val byline: String,
     val created_date: String,
     val des_facet: List<String>,

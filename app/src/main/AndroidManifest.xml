@@ -3,17 +3,15 @@
   xmlns:tools="http://schemas.android.com/tools"
   package="com.ronnie.nytnews">
 
-  <uses-permission android:name="android.permission.INTERNET"/>
-
   <application
     android:allowBackup="true"
     android:dataExtractionRules="@xml/data_extraction_rules"
     android:fullBackupContent="@xml/backup_rules"
     android:icon="@mipmap/ic_launcher"
     android:label="@string/app_name"
+    android:name=".NewsApp"
     android:roundIcon="@mipmap/ic_launcher_round"
     android:supportsRtl="true"
-    android:name=".NewsApp"
     android:theme="@style/Theme.NYTNews"
     tools:targetApi="31">
     <activity
@@ -28,5 +26,7 @@
       </intent-filter>
     </activity>
   </application>
+
+  <uses-permission android:name="android.permission.INTERNET" />
 
 </manifest>
