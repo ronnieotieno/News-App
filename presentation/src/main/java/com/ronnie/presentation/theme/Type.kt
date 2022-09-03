@@ -1,4 +1,4 @@
-package com.ronnie.nytnews.ui.theme
+package com.ronnie.presentation.theme
 
 import androidx.compose.material.Typography
 import androidx.compose.ui.text.TextStyle

@@ -1,4 +1,4 @@
-package com.ronnie.nytnews
+package com.ronnie.presentation
 
 import android.os.Bundle
 import androidx.activity.ComponentActivity
@@ -10,7 +10,7 @@ import androidx.compose.material.Text
 import androidx.compose.runtime.Composable
 import androidx.compose.ui.Modifier
 import androidx.compose.ui.tooling.preview.Preview
-import com.ronnie.nytnews.ui.theme.NYTNewsTheme
+import com.ronnie.presentation.theme.NYTNewsTheme
 
 class MainActivity : ComponentActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
