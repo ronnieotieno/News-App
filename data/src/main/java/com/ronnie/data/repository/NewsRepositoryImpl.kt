@@ -30,6 +30,7 @@ class NewsRepositoryImpl @Inject constructor(
         } else {
             true
         }
+
         return Pair(newsDao.getCategoryNews(category), hasError)
     }
 
@@ -62,7 +63,7 @@ class NewsRepositoryImpl @Inject constructor(
         title = title,
         description = abstract,
         url = url,
-        uri = uri,
+        uri = uri + category,
         createdAt = System.currentTimeMillis(),
         category = category
     )

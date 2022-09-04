@@ -41,25 +41,12 @@ class MainActivity : ComponentActivity() {
 }
 
 @Composable
-fun Surface2(viewModel: NewsViewModel = hiltViewModel()) {
-    val news = remember {
-        viewModel.getNews()
-        viewModel.newsList
-    }.collectAsState()
+fun Surface2() {
+
 
     Scaffold(
         content = {
-            when {
-                news.value.isLoading -> {
-                    ShowData("Loading")
-                }
-                news.value.data.isNotEmpty() -> {
-                    ShowData(news.value.data.size.toString() + news.value.error.toString())
-                }
-                news.value.error -> {
-                    ShowData(data = "ERROR")
-                }
-            }
+
         })
 }
 

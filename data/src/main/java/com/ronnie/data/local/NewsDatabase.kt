@@ -9,7 +9,7 @@ import javax.inject.Singleton
 
 @Database(
     entities = [NewsView::class],
-    version = 1, exportSchema = false
+    version = 2, exportSchema = false
 )
 @Singleton
 abstract class NewsDatabase : RoomDatabase() {
