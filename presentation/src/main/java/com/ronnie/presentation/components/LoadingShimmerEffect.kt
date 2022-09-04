@@ -1,6 +1,10 @@
 package com.ronnie.presentation.components
 
-import androidx.compose.animation.core.*
+import androidx.compose.animation.core.FastOutLinearInEasing
+import androidx.compose.animation.core.animateFloat
+import androidx.compose.animation.core.infiniteRepeatable
+import androidx.compose.animation.core.rememberInfiniteTransition
+import androidx.compose.animation.core.tween
 import androidx.compose.runtime.Composable
 import androidx.compose.ui.geometry.Offset
 import androidx.compose.ui.graphics.Brush.Companion.linearGradient

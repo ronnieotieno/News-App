@@ -9,7 +9,6 @@ import androidx.compose.foundation.layout.padding
 import androidx.compose.foundation.layout.width
 import androidx.compose.foundation.selection.toggleable
 import androidx.compose.foundation.shape.RoundedCornerShape
-import androidx.compose.material.MaterialTheme
 import androidx.compose.material.Surface
 import androidx.compose.material.Text
 import androidx.compose.runtime.Composable
@@ -23,8 +22,10 @@ import androidx.compose.ui.unit.sp
 import com.ronnie.presentation.R
 
 @Composable
-fun CategoryChip(modifier: Modifier,category: String,isSelected: Boolean = false,
-    onSelectionChanged: (String) -> Unit = {}) {
+fun CategoryChip(
+    modifier: Modifier, category: String, isSelected: Boolean = false,
+    onSelectionChanged: (String) -> Unit = {}
+) {
     Surface(
         modifier = modifier,
         border = BorderStroke(
@@ -46,7 +47,9 @@ fun CategoryChip(modifier: Modifier,category: String,isSelected: Boolean = false
                 text = category,
                 fontWeight = FontWeight.Bold,
                 color = if (isSelected) Color.White else colorResource(id = R.color.primaryTextColor),
-                modifier = Modifier.padding(8.dp).fillMaxWidth(),
+                modifier = Modifier
+                    .padding(8.dp)
+                    .fillMaxWidth(),
                 textAlign = TextAlign.Center,
                 maxLines = 1,
                 fontSize = 14.sp
@@ -61,14 +64,19 @@ fun ChipGroup(
     selectedCategory: String? = null,
     onSelectedChanged: (String) -> Unit = {},
 ) {
-    Column(modifier = Modifier
-        .padding(4.dp)
-        .fillMaxWidth()) {
-        Row(modifier = Modifier.fillMaxWidth().width(intrinsicSize = IntrinsicSize.Max)) {
+    Column(
+        modifier = Modifier
+            .padding(4.dp)
+            .fillMaxWidth()
+    ) {
+        Row(modifier = Modifier
+            .fillMaxWidth()
+            .width(intrinsicSize = IntrinsicSize.Max)) {
             categories.forEach { category ->
                 CategoryChip(
                     modifier = Modifier
-                        .weight(1f).padding(2.dp),
+                        .weight(1f)
+                        .padding(2.dp),
                     category = category,
                     isSelected = selectedCategory == category,
                     onSelectionChanged = {

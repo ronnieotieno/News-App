@@ -20,20 +20,26 @@ class NewsViewModel @Inject constructor(private val newsListUseCase: NewsListUse
     private val _newResponse: MutableStateFlow<UiState> =
         MutableStateFlow(UiState(true, emptyList(), false))
     val newsList get() = _newResponse
-    private var collectJob:Job? = null
+    private var collectJob: Job? = null
 
     init {
         getNews("home")
     }
 
-    fun getNews(selectedCategory:String) {
+    fun getNews(selectedCategory: String) {
         collectJob?.cancel()
-        collectJob =  viewModelScope.launch(Dispatchers.IO) {
+        collectJob = viewModelScope.launch(Dispatchers.IO) {
             _newResponse.emit(UiState(true, emptyList(), false))
             newsListUseCase.invoke(selectedCategory).apply {
-               first.collectLatest { list ->
+                first.collectLatest { list ->
                     Log.d("SelectedCategory", selectedCategory)
-                    _newResponse.emit(UiState(false, list.filter { it.byline.isNotEmpty() && it.title.isNotEmpty() }, second))
+                    _newResponse.emit(
+                        UiState(
+                            false,
+                            list.filter { it.byline.isNotEmpty() && it.title.isNotEmpty() },
+                            second
+                        )
+                    )
                 }
             }
         }

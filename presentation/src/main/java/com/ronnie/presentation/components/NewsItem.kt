@@ -26,10 +26,11 @@ import coil.request.ImageRequest
 import com.ronnie.domain.models.uiView.NewsView
 
 @Composable
-fun NewsItem(newsView: NewsView){
+fun NewsItem(newsView: NewsView) {
     Box(
         Modifier
-            .fillMaxWidth()) {
+            .fillMaxWidth()
+    ) {
         Row(
             Modifier
                 .padding(10.dp)

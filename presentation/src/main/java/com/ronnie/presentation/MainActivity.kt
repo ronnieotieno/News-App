@@ -9,11 +9,8 @@ import androidx.compose.material.Scaffold
 import androidx.compose.material.Surface
 import androidx.compose.material.Text
 import androidx.compose.runtime.Composable
-import androidx.compose.runtime.collectAsState
-import androidx.compose.runtime.remember
 import androidx.compose.ui.Modifier
 import androidx.compose.ui.tooling.preview.Preview
-import androidx.hilt.navigation.compose.hiltViewModel
 import com.ronnie.domain.useCases.NewsListUseCase
 import com.ronnie.presentation.screens.HomeScreen
 import com.ronnie.presentation.theme.NYTNewsTheme
@@ -42,7 +39,6 @@ class MainActivity : ComponentActivity() {
 
 @Composable
 fun Surface2() {
-
 
     Scaffold(
         content = {
