@@ -1,5 +1,6 @@
 package com.ronnie.presentation.components
 
+import androidx.compose.foundation.clickable
 import androidx.compose.foundation.layout.Arrangement
 import androidx.compose.foundation.layout.Box
 import androidx.compose.foundation.layout.Column
@@ -21,12 +22,16 @@ import androidx.compose.ui.platform.LocalContext
 import androidx.compose.ui.text.font.FontWeight
 import androidx.compose.ui.unit.dp
 import androidx.compose.ui.unit.sp
+import androidx.navigation.NavController
 import coil.compose.AsyncImage
 import coil.request.ImageRequest
 import com.ronnie.domain.models.uiView.NewsView
+import com.ronnie.presentation.utils.Screen
+import java.net.URLEncoder
+import java.nio.charset.StandardCharsets
 
 @Composable
-fun NewsItem(newsView: NewsView) {
+fun NewsItem(navController: NavController, newsView: NewsView) {
     Box(
         Modifier
             .fillMaxWidth()
@@ -35,6 +40,7 @@ fun NewsItem(newsView: NewsView) {
             Modifier
                 .padding(10.dp)
                 .fillMaxWidth()
+                .clickable { navController.navigate(Screen.Detail.createRoute(newsView.uri.substringAfterLast("/"))) }
         ) {
             AsyncImage(
                 model = ImageRequest.Builder(LocalContext.current)

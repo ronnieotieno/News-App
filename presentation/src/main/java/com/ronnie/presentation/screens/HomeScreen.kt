@@ -25,9 +25,9 @@ import androidx.compose.ui.text.font.FontWeight
 import androidx.compose.ui.text.style.TextAlign
 import androidx.compose.ui.unit.dp
 import androidx.compose.ui.unit.sp
-import androidx.hilt.navigation.compose.hiltViewModel
 import androidx.lifecycle.compose.ExperimentalLifecycleComposeApi
 import androidx.lifecycle.compose.collectAsStateWithLifecycle
+import androidx.navigation.NavController
 import coil.compose.AsyncImage
 import coil.request.ImageRequest
 import com.ronnie.domain.models.UiState
@@ -38,13 +38,12 @@ import com.ronnie.presentation.components.LoadingShimmerEffect
 import com.ronnie.presentation.components.NewsItem
 import java.util.Locale
 
+val selectedCategory: MutableState<String?> = mutableStateOf(newsCategories[0])
+
 @OptIn(ExperimentalLifecycleComposeApi::class)
 @Composable
-fun HomeScreen(viewModel: NewsViewModel = hiltViewModel()) {
+fun HomeScreen(navController: NavController,viewModel: NewsViewModel) {
 
-    val selectedCategory: MutableState<String?> = remember {
-        mutableStateOf(newsCategories[0])
-    }
     val listState = rememberLazyListState()
 
     val news: UiState by viewModel.newsList.collectAsStateWithLifecycle()
@@ -78,12 +77,16 @@ fun HomeScreen(viewModel: NewsViewModel = hiltViewModel()) {
         ChipGroup(newsCategories, selectedCategory = selectedCategory.value, onSelectedChanged = {
             selectedCategory.value = it
             selectedCategory.value?.lowercase(Locale.ROOT)
-                .let { category -> viewModel.getNews(category!!) }
+                .let { category ->
+                    if (category != null) {
+                        viewModel.getNews(category)
+                    }
+                }
         })
         LazyColumn(state = listState) {
             if (news.data.isNotEmpty() && !news.isLoading) {
                 items(news.data) { item ->
-                    NewsItem(newsView = item)
+                    NewsItem(navController = navController, newsView = item)
                 }
             } else if (news.isLoading) {
                 items(10) {
