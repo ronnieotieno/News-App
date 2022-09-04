@@ -15,6 +15,7 @@ import androidx.compose.ui.Modifier
 import androidx.compose.ui.tooling.preview.Preview
 import androidx.hilt.navigation.compose.hiltViewModel
 import com.ronnie.domain.useCases.NewsListUseCase
+import com.ronnie.presentation.screens.HomeScreen
 import com.ronnie.presentation.theme.NYTNewsTheme
 import dagger.hilt.android.AndroidEntryPoint
 import javax.inject.Inject
@@ -32,7 +33,7 @@ class MainActivity : ComponentActivity() {
                     modifier = Modifier.fillMaxSize(),
                     color = MaterialTheme.colors.background
                 ) {
-                    Surface2()
+                    HomeScreen()
                 }
             }
         }

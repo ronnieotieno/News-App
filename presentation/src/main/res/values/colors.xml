@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <!-- Primary Colors Shades -->
+  <color name="blue">#3359DF</color>
+  <color name="dark_blue">#1F3586</color>
+  <color name="light_blue">#D6DEF9</color>
+  <color name="lightest_blue">#F5F7FD</color>
+
+  <!-- Text Colors - Neutral -->
+  <color name="DarkTextColor">#03102C</color>
+  <color name="primaryTextColor">#253046</color>
+  <color name="subtleTextColor">#737A88</color>
+
+  <color name="overlayColor">#8003102C</color>
+  <color name="backgroundColor">#FCFDFF</color>
+</resources>
