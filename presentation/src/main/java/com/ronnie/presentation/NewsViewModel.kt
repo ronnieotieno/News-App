@@ -23,6 +23,7 @@ class NewsViewModel @Inject constructor(private val newsListUseCase: NewsListUse
     val newsList get() = _newResponse
     private var collectJob: Job? = null
     var currentNewsList: List<NewsView> = emptyList()
+    var currentCategory = "home"
 
     init {
         getNews("home")
@@ -30,6 +31,7 @@ class NewsViewModel @Inject constructor(private val newsListUseCase: NewsListUse
 
     fun getNews(selectedCategory: String) {
         collectJob?.cancel()
+        currentCategory = selectedCategory
         collectJob = viewModelScope.launch(Dispatchers.IO) {
             _newResponse.emit(UiState(true, emptyList(), false))
             newsListUseCase.invoke(selectedCategory).apply {
