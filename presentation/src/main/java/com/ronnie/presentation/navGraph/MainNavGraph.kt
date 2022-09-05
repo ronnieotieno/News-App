@@ -14,7 +14,7 @@ import com.ronnie.presentation.screens.HomeScreen
 import com.ronnie.presentation.utils.Screen
 
 @Composable
-@ExperimentalAnimationApi
+@OptIn(ExperimentalAnimationApi::class)
 fun MainNavGraph() {
     val navController = rememberAnimatedNavController()
     val viewModel: NewsViewModel = hiltViewModel()

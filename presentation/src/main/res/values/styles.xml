@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="Theme.CustomSplashScreenTheme" parent="Theme.SplashScreen">
+        <item name="windowSplashScreenBackground">@android:color/white</item>
+        <item name="windowSplashScreenAnimatedIcon">@mipmap/ic_launcher</item>
+        <item name="windowSplashScreenAnimationDuration">300</item>
+        <item name="postSplashScreenTheme">@style/Theme.NYTNews</item>
+    </style>
+
+    <style name="Theme.NYTNews" parent="android:Theme.Material.Light.NoActionBar">
+        <item name="android:statusBarColor">@color/blue</item>
+    </style>
+</resources>
