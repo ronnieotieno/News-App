@@ -69,9 +69,11 @@ fun ChipGroup(
             .padding(4.dp)
             .fillMaxWidth()
     ) {
-        Row(modifier = Modifier
-            .fillMaxWidth()
-            .width(intrinsicSize = IntrinsicSize.Max)) {
+        Row(
+            modifier = Modifier
+                .fillMaxWidth()
+                .width(intrinsicSize = IntrinsicSize.Max)
+        ) {
             categories.forEach { category ->
                 CategoryChip(
                     modifier = Modifier

@@ -106,14 +106,16 @@ fun DetailScreen(navController: NavHostController, uri: String, viewModel: NewsV
                                 fontSize = 16.sp
                             )
                             Spacer(Modifier.height(5.dp))
-                            Row(modifier = Modifier.clickable { openTab(ctx, selectedNews.url)}) {
+                            Row(modifier = Modifier.clickable { openTab(ctx, selectedNews.url) }) {
                                 Text(
                                     text = "See More",
                                     color = colorResource(id = R.color.blue),
                                     fontSize = 15.sp
                                 )
                                 Icon(
-                                    modifier = Modifier.size(20.dp).padding(start = 2.dp),
+                                    modifier = Modifier
+                                        .size(20.dp)
+                                        .padding(start = 2.dp),
                                     tint = colorResource(id = R.color.blue),
                                     painter = painterResource(id = R.drawable.ic_open_link),
                                     contentDescription = ""
@@ -128,19 +130,19 @@ fun DetailScreen(navController: NavHostController, uri: String, viewModel: NewsV
     }
 }
 
-    fun openTab(context: Context, url:String) {
-        val activity = (context as? Activity)
+fun openTab(context: Context, url: String) {
+    val activity = (context as? Activity)
 
-        val builder = CustomTabsIntent.Builder()
-        builder.setShowTitle(true)
-        builder.setInstantAppsEnabled(true)
-        builder.setToolbarColor(ContextCompat.getColor(context, R.color.blue))
+    val builder = CustomTabsIntent.Builder()
+    builder.setShowTitle(true)
+    builder.setInstantAppsEnabled(true)
+    builder.setToolbarColor(ContextCompat.getColor(context, R.color.blue))
 
-        val customBuilder = builder.build()
-        try {
-            customBuilder.launchUrl(context, Uri.parse(url))
-        } catch (e:Exception) {
-            val i = Intent(Intent.ACTION_VIEW, Uri.parse(url))
-            activity?.startActivity(i)
-        }
+    val customBuilder = builder.build()
+    try {
+        customBuilder.launchUrl(context, Uri.parse(url))
+    } catch (e: Exception) {
+        val i = Intent(Intent.ACTION_VIEW, Uri.parse(url))
+        activity?.startActivity(i)
     }
+}

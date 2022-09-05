@@ -22,7 +22,7 @@ class NewsViewModel @Inject constructor(private val newsListUseCase: NewsListUse
         MutableStateFlow(UiState(true, emptyList(), false))
     val newsList get() = _newResponse
     private var collectJob: Job? = null
-    var currentNewsList:List<NewsView> = emptyList()
+    var currentNewsList: List<NewsView> = emptyList()
 
     init {
         getNews("home")
@@ -35,7 +35,8 @@ class NewsViewModel @Inject constructor(private val newsListUseCase: NewsListUse
             newsListUseCase.invoke(selectedCategory).apply {
                 first.collectLatest { list ->
                     Log.d("SelectedCategory", selectedCategory)
-                    val filteredList = list.filter { it.byline.isNotEmpty() && it.title.isNotEmpty() }
+                    val filteredList =
+                        list.filter { it.byline.isNotEmpty() && it.title.isNotEmpty() }
                     currentNewsList = filteredList
                     _newResponse.emit(
                         UiState(
