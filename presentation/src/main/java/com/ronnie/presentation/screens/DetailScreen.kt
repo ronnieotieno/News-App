@@ -140,14 +140,14 @@ fun DetailScreen(navController: NavHostController, uri: String, viewModel: NewsV
                                 }) {
                                     Text(
                                         text = "See More",
-                                        color = colorResource(id = R.color.blue),
+                                        color = colorResource(id = R.color.bright_blue),
                                         fontSize = 15.sp
                                     )
                                     Icon(
                                         modifier = Modifier
                                             .size(20.dp)
                                             .padding(start = 2.dp),
-                                        tint = colorResource(id = R.color.blue),
+                                        tint = colorResource(id = R.color.bright_blue),
                                         painter = painterResource(id = R.drawable.ic_open_link),
                                         contentDescription = ""
                                     )

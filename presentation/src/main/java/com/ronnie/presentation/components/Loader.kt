@@ -15,6 +15,6 @@ fun Loader() {
         contentAlignment = Alignment.Center,
         modifier = Modifier.fillMaxSize()
     ) {
-        CircularProgressIndicator(color = colorResource(id = R.color.blue))
+        CircularProgressIndicator(color = colorResource(id = R.color.bright_blue))
     }
 }
