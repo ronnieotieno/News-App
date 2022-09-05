@@ -55,7 +55,7 @@ object DataModule {
         val request = chain.request().newBuilder()
         val originalHttpUrl = chain.request().url
         val url = originalHttpUrl.newBuilder()
-            .addQueryParameter("api-key", "Xz9BJGuIirFdAaK5upQOX78dkimypiBC")
+            .addQueryParameter("api-key", BuildConfig.API_KEY)
             .build()
         request.url(url)
         chain.proceed(request.build())

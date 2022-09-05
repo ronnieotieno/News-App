@@ -14,6 +14,7 @@ android {
 
         testInstrumentationRunner "androidx.test.runner.AndroidJUnitRunner"
         consumerProguardFiles "consumer-rules.pro"
+        buildConfigField("String", "API_KEY", "\"" + getApiKey() + "\"")
     }
 
     buildTypes {
@@ -76,4 +77,8 @@ dependencies {
     kapt "androidx.hilt:hilt-compiler:$hiltCompiler"
     implementation "androidx.hilt:hilt-work:$hiltCompiler"
 
+}
+
+def getApiKey() {
+    return project.findProperty("apiKey")
 }
