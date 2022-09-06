@@ -27,7 +27,6 @@ import com.ronnie.presentation.components.LoadingShimmerEffect
 import com.ronnie.presentation.components.NewsItem
 import kotlinx.coroutines.flow.collectLatest
 
-
 @OptIn(ExperimentalLifecycleComposeApi::class)
 @Composable
 fun HomeScreen(navController: NavController, viewModel: NewsViewModel) {
@@ -35,11 +34,10 @@ fun HomeScreen(navController: NavController, viewModel: NewsViewModel) {
     val listState = rememberLazyListState()
     val newsCategories = stringArrayResource(id = R.array.categories).toList()
     val selectedCategory: MutableState<String?> = remember {
-        mutableStateOf(newsCategories[0])
+        mutableStateOf(viewModel.currentCategory)
     }
 
     val news: UiState by viewModel.newsList.collectAsStateWithLifecycle()
-
     val snackHostState = SnackbarHostState()
     val scaffoldState = rememberScaffoldState(snackbarHostState = snackHostState)
     val unableToFetchMessage = stringResource(id = R.string.unable_to_fetch_data)

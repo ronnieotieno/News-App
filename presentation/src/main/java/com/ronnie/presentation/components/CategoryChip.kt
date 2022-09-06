@@ -80,7 +80,7 @@ fun ChipGroup(
                         .weight(1f)
                         .padding(2.dp),
                     category = category,
-                    isSelected = selectedCategory == category,
+                    isSelected = selectedCategory.equals(category, true),
                     onSelectionChanged = {
                         onSelectedChanged(it)
                     },
