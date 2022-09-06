@@ -29,6 +29,7 @@ import androidx.compose.material.Text
 import androidx.compose.material.TopAppBar
 import androidx.compose.material.icons.Icons
 import androidx.compose.material.icons.filled.ArrowBack
+import androidx.compose.material.icons.filled.Close
 import androidx.compose.runtime.Composable
 import androidx.compose.runtime.MutableState
 import androidx.compose.runtime.mutableStateOf
@@ -90,7 +91,7 @@ fun DetailScreen(navController: NavHostController, uri: String, viewModel: NewsV
                                 false else navController.navigateUp()
                         }) {
                             Icon(
-                                imageVector = Icons.Filled.ArrowBack,
+                                imageVector =  if (showWebView.value) Icons.Filled.Close  else Icons.Filled.ArrowBack,
                                 contentDescription = "Back"
                             )
                         }
