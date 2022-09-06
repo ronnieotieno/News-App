@@ -19,6 +19,7 @@ import androidx.compose.ui.Modifier
 import androidx.compose.ui.graphics.Color
 import androidx.compose.ui.layout.ContentScale
 import androidx.compose.ui.platform.LocalContext
+import androidx.compose.ui.res.stringResource
 import androidx.compose.ui.text.font.FontWeight
 import androidx.compose.ui.unit.dp
 import androidx.compose.ui.unit.sp
@@ -26,6 +27,7 @@ import androidx.navigation.NavController
 import coil.compose.AsyncImage
 import coil.request.ImageRequest
 import com.ronnie.domain.models.uiView.NewsView
+import com.ronnie.presentation.R
 import com.ronnie.presentation.utils.Screen
 
 @Composable
@@ -53,7 +55,7 @@ fun NewsItem(navController: NavController, newsView: NewsView) {
                     .data(newsView.imageUrl)
                     .crossfade(true)
                     .build(),
-                contentDescription = "news Image",
+                contentDescription = stringResource(id = R.string.news_image),
                 modifier = Modifier
                     .height(110.dp)
                     .width(110.dp),

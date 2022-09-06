@@ -12,35 +12,43 @@ import androidx.compose.runtime.LaunchedEffect
 import androidx.compose.runtime.MutableState
 import androidx.compose.runtime.getValue
 import androidx.compose.runtime.mutableStateOf
+import androidx.compose.runtime.remember
+import androidx.compose.ui.res.stringArrayResource
+import androidx.compose.ui.res.stringResource
 import androidx.lifecycle.compose.ExperimentalLifecycleComposeApi
 import androidx.lifecycle.compose.collectAsStateWithLifecycle
 import androidx.navigation.NavController
 import com.ronnie.domain.models.UiState
 import com.ronnie.presentation.NewsViewModel
+import com.ronnie.presentation.R
 import com.ronnie.presentation.components.ErrorView
 import com.ronnie.presentation.components.HomeHeader
 import com.ronnie.presentation.components.LoadingShimmerEffect
 import com.ronnie.presentation.components.NewsItem
 import kotlinx.coroutines.flow.collectLatest
 
-val selectedCategory: MutableState<String?> = mutableStateOf(newsCategories[0])
 
 @OptIn(ExperimentalLifecycleComposeApi::class)
 @Composable
 fun HomeScreen(navController: NavController, viewModel: NewsViewModel) {
 
     val listState = rememberLazyListState()
+    val newsCategories = stringArrayResource(id = R.array.categories).toList()
+    val selectedCategory: MutableState<String?> = remember {
+        mutableStateOf(newsCategories[0])
+    }
 
     val news: UiState by viewModel.newsList.collectAsStateWithLifecycle()
 
     val snackHostState = SnackbarHostState()
     val scaffoldState = rememberScaffoldState(snackbarHostState = snackHostState)
+    val unableToFetchMessage = stringResource(id = R.string.unable_to_fetch_data)
 
     LaunchedEffect(Unit) {
         viewModel.newsList.collectLatest { news ->
             if (news.error && news.data.isNotEmpty()) {
                 snackHostState.showSnackbar(
-                    message = "Unable to fetch new articles, check your internet connection",
+                    message = unableToFetchMessage,
                     duration = SnackbarDuration.Short
                 )
             }
@@ -49,7 +57,8 @@ fun HomeScreen(navController: NavController, viewModel: NewsViewModel) {
     Scaffold(scaffoldState = scaffoldState) {
         LazyColumn(state = listState) {
             item {
-                HomeHeader(viewModel = viewModel)
+                HomeHeader(newsCategories = newsCategories, selectedCategory =  selectedCategory,
+                    viewModel = viewModel)
             }
 
             if (news.error && news.data.isEmpty()) {
@@ -70,5 +79,3 @@ fun HomeScreen(navController: NavController, viewModel: NewsViewModel) {
         }
     }
 }
-
-val newsCategories get() = listOf("Home", "Arts", "Science", "US", "World")

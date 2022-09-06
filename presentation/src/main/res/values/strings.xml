@@ -2,4 +2,18 @@
 <resources>
   <string name="retry">Retry</string>
   <string name="error">Something went wrong\nPlease try again!</string>
+  <string name="news_image">News Image</string>
+  <string name="see_more">See more</string>
+  <string name="back">Back</string>
+  <string name="open_link">Open link on webview</string>
+  <string name="detail">Detail</string>
+  <string name="top_stories">Top Stories</string>
+  <string name="unable_to_fetch_data">Unable to fetch new articles, check your internet connection</string>
+  <string-array name="categories">
+    <item>Home</item>
+    <item>Arts</item>
+    <item>Science</item>
+    <item>US</item>
+    <item>World</item>
+  </string-array>
 </resources>

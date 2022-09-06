@@ -26,7 +26,7 @@ class NewsViewModel @Inject constructor(private val newsListUseCase: NewsListUse
     var currentCategory = "home"
 
     init {
-        getNews("home")
+        getNews(currentCategory)
     }
 
     fun getNews(selectedCategory: String) {

@@ -41,6 +41,7 @@ import androidx.compose.ui.layout.ContentScale
 import androidx.compose.ui.platform.LocalContext
 import androidx.compose.ui.res.colorResource
 import androidx.compose.ui.res.painterResource
+import androidx.compose.ui.res.stringResource
 import androidx.compose.ui.text.font.FontWeight
 import androidx.compose.ui.unit.dp
 import androidx.compose.ui.unit.sp
@@ -73,7 +74,7 @@ fun DetailScreen(navController: NavHostController, uri: String, viewModel: NewsV
                 .data(selectedNews.imageUrl)
                 .crossfade(true)
                 .build(),
-            contentDescription = "news Image",
+            contentDescription = stringResource(id = R.string.news_image),
             modifier = Modifier.fillMaxSize(),
             contentScale = ContentScale.Crop
         )
@@ -83,7 +84,7 @@ fun DetailScreen(navController: NavHostController, uri: String, viewModel: NewsV
                 TopAppBar(
                     elevation = 0.dp,
                     backgroundColor = Color.Transparent,
-                    title = { Text(color = Color.White, text = "Detail") },
+                    title = { Text(color = Color.White, text = stringResource(id = R.string.detail)) },
                     navigationIcon = {
                         IconButton(onClick = {
                             loaderVisibility.value = false
@@ -92,7 +93,7 @@ fun DetailScreen(navController: NavHostController, uri: String, viewModel: NewsV
                         }) {
                             Icon(
                                 imageVector =  if (showWebView.value) Icons.Filled.Close  else Icons.Filled.ArrowBack,
-                                contentDescription = "Back"
+                                contentDescription = stringResource(id = R.string.back)
                             )
                         }
                     },
@@ -140,7 +141,7 @@ fun DetailScreen(navController: NavHostController, uri: String, viewModel: NewsV
                                     showWebView.value = true; loaderVisibility.value = true
                                 }) {
                                     Text(
-                                        text = "See More",
+                                        text = stringResource(id = R.string.see_more),
                                         color = colorResource(id = R.color.bright_blue),
                                         fontSize = 15.sp
                                     )
@@ -150,7 +151,7 @@ fun DetailScreen(navController: NavHostController, uri: String, viewModel: NewsV
                                             .padding(start = 2.dp),
                                         tint = colorResource(id = R.color.bright_blue),
                                         painter = painterResource(id = R.drawable.ic_open_link),
-                                        contentDescription = ""
+                                        contentDescription = stringResource(id = R.string.open_link)
                                     )
                                 }
                                 Spacer(Modifier.height(20.dp))

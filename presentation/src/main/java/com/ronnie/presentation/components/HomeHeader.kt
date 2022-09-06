@@ -8,10 +8,12 @@ import androidx.compose.foundation.layout.height
 import androidx.compose.foundation.layout.padding
 import androidx.compose.material.Text
 import androidx.compose.runtime.Composable
+import androidx.compose.runtime.MutableState
 import androidx.compose.ui.Modifier
 import androidx.compose.ui.layout.ContentScale
 import androidx.compose.ui.platform.LocalContext
 import androidx.compose.ui.res.colorResource
+import androidx.compose.ui.res.stringResource
 import androidx.compose.ui.text.TextStyle
 import androidx.compose.ui.text.font.FontFamily
 import androidx.compose.ui.text.font.FontWeight
@@ -22,12 +24,14 @@ import coil.compose.AsyncImage
 import coil.request.ImageRequest
 import com.ronnie.presentation.NewsViewModel
 import com.ronnie.presentation.R
-import com.ronnie.presentation.screens.newsCategories
-import com.ronnie.presentation.screens.selectedCategory
 import java.util.Locale
 
 @Composable
-fun HomeHeader(viewModel: NewsViewModel) {
+fun HomeHeader(
+    newsCategories: List<String>,
+    selectedCategory: MutableState<String?>,
+    viewModel: NewsViewModel
+) {
     Column(
         Modifier
             .fillMaxSize()
@@ -38,14 +42,14 @@ fun HomeHeader(viewModel: NewsViewModel) {
                 .data(R.drawable.nyt_logo)
                 .crossfade(true)
                 .build(),
-            contentDescription = "news Image",
+            contentDescription = stringResource(id = R.string.news_image),
             modifier = Modifier
                 .fillMaxWidth()
                 .padding(end = 10.dp, start = 10.dp),
             contentScale = ContentScale.Inside
         )
         Text(
-            text = "Top Stories",
+            text = stringResource(id = R.string.top_stories),
             fontWeight = FontWeight.Bold,
             color = colorResource(id = R.color.primaryTextColor),
             modifier = Modifier.fillMaxWidth(),
