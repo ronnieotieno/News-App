@@ -1,0 +1,2266 @@
+{
+  "status": "OK",
+  "copyright": "Copyright (c) 2022 The New York Times Company. All Rights Reserved.",
+  "section": "home",
+  "last_updated": "2022-09-04T06:40:02-04:00",
+  "num_results": 37,
+  "results": [
+    {
+      "section": "technology",
+      "subsection": "",
+      "title": "Russia’s Unfounded Claims of Secret U.S. Bioweapons Linger On and On",
+      "abstract": "Without providing evidence, the Kremlin is pressing allegations that the U.S. operates labs in Ukraine and beyond. This week, it has called an investigative session in Geneva.",
+      "url": "https://www.nytimes.com/2022/09/04/technology/russia-bioweapons-geneva.html",
+      "uri": "nyt://article/2b8c20c5-fce1-58d6-ab52-4212525e85bb",
+      "byline": "By Steven Lee Myers",
+      "item_type": "Article",
+      "updated_date": "2022-09-04T05:00:17-04:00",
+      "created_date": "2022-09-04T05:00:17-04:00",
+      "published_date": "2022-09-04T05:00:17-04:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "War and Armed Conflicts",
+        "Biological and Chemical Warfare",
+        "United States International Relations",
+        "International Relations",
+        "Laboratories and Scientific Equipment",
+        "Propaganda",
+        "Russian Invasion of Ukraine (2022)",
+        "Conspiracy Theories",
+        "Rumors and Misinformation"
+      ],
+      "org_facet": [
+        "Security Council (UN)"
+      ],
+      "per_facet": [
+        "Putin, Vladimir V"
+      ],
+      "geo_facet": [],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2022/09/04/business/04russia-disinfo-1/merlin_212263269_d7c5d67f-e2e6-4342-8396-cbfaf83dc713-superJumbo.jpg",
+          "format": "Super Jumbo",
+          "height": 1374,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "President Vladimir Putin of Russia at a student event last week. The Kremlin accuses the United States of operating secret biological research programs to wreak havoc around the globe.",
+          "copyright": "Pool photo by Gavriil Grigorov"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2022/09/04/business/04russia-disinfo-1/04russia-disinfo-1-threeByTwoSmallAt2X-v2.jpg",
+          "format": "threeByTwoSmallAt2X",
+          "height": 400,
+          "width": 600,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "President Vladimir Putin of Russia at a student event last week. The Kremlin accuses the United States of operating secret biological research programs to wreak havoc around the globe.",
+          "copyright": "Pool photo by Gavriil Grigorov"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2022/09/04/business/04russia-disinfo-1/04russia-disinfo-1-thumbLarge.jpg",
+          "format": "Large Thumbnail",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "President Vladimir Putin of Russia at a student event last week. The Kremlin accuses the United States of operating secret biological research programs to wreak havoc around the globe.",
+          "copyright": "Pool photo by Gavriil Grigorov"
+        }
+      ],
+      "short_url": "https://nyti.ms/3D27fSp"
+    },
+    {
+      "section": "us",
+      "subsection": "politics",
+      "title": "How Russia Uses Low Tech in Its High-Tech Weapons",
+      "abstract": "Investigators who examined the electronics in Russia’s newest cruise missiles and attack helicopters were surprised to find decades-old technology reused from earlier models.",
+      "url": "https://www.nytimes.com/2022/09/04/us/politics/russia-missiles-ukraine.html",
+      "uri": "nyt://article/3a53cef7-93d4-5e10-9074-f18f8a915b9f",
+      "byline": "By John Ismay",
+      "item_type": "Article",
+      "updated_date": "2022-09-04T03:00:10-04:00",
+      "created_date": "2022-09-04T03:00:10-04:00",
+      "published_date": "2022-09-04T03:00:10-04:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "Russian Invasion of Ukraine (2022)",
+        "Defense and Military Forces",
+        "Navigation",
+        "Embargoes and Sanctions",
+        "Arms Trade",
+        "Missiles and Missile Defense Systems",
+        "Computer Security"
+      ],
+      "org_facet": [
+        "Conflict Armament Research"
+      ],
+      "per_facet": [],
+      "geo_facet": [
+        "Russia",
+        "Ukraine"
+      ],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2022/09/02/us/politics/02dc-engineer1/merlin_212308353_eecf68e4-daa1-4202-84dd-70e38ea07a37-superJumbo.jpg",
+          "format": "Super Jumbo",
+          "height": 1152,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "A composite image of a variety of circuit boards found in satellite navigation receivers of several models of Russian missiles.",
+          "copyright": "Conflict Armament Research"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2022/09/02/us/politics/02dc-engineer1/02dc-engineer1-threeByTwoSmallAt2X.jpg",
+          "format": "threeByTwoSmallAt2X",
+          "height": 400,
+          "width": 600,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "A composite image of a variety of circuit boards found in satellite navigation receivers of several models of Russian missiles.",
+          "copyright": "Conflict Armament Research"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2022/09/02/us/politics/02dc-engineer1/02dc-engineer1-thumbLarge.jpg",
+          "format": "Large Thumbnail",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "A composite image of a variety of circuit boards found in satellite navigation receivers of several models of Russian missiles.",
+          "copyright": "Conflict Armament Research"
+        }
+      ],
+      "short_url": "https://nyti.ms/3BarQm6"
+    },
+    {
+      "section": "us",
+      "subsection": "politics",
+      "title": "How a Record Cash Haul Vanished for Senate Republicans",
+      "abstract": "The campaign arm of Senate Republicans had collected $181.5 million by the end of July — but spent 95 percent of it. A big investment in digital, and hyperaggressive tactics, have not paid off.",
+      "url": "https://www.nytimes.com/2022/09/03/us/politics/senate-republican-committee-funds.html",
+      "uri": "nyt://article/d5b09bcc-b35b-5e3b-a819-b86e2f0f967e",
+      "byline": "By Shane Goldmacher",
+      "item_type": "Article",
+      "updated_date": "2022-09-03T23:26:52-04:00",
+      "created_date": "2022-09-03T15:30:10-04:00",
+      "published_date": "2022-09-03T15:30:10-04:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "United States Politics and Government",
+        "Politics and Government",
+        "Elections",
+        "Midterm Elections (2022)",
+        "Campaign Finance",
+        "Elections, Senate"
+      ],
+      "org_facet": [
+        "House of Representatives",
+        "National Republican Senatorial Committee",
+        "Republican National Committee",
+        "Republican Party",
+        "Senate",
+        "WinRed"
+      ],
+      "per_facet": [
+        "McConnell, Mitch",
+        "Vance, J D"
+      ],
+      "geo_facet": [
+        "Nantucket (Mass)"
+      ],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2022/09/01/multimedia/00pol-gopmoney-scott/00pol-gopmoney-scott-superJumbo.jpg",
+          "format": "Super Jumbo",
+          "height": 1367,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Senator Rick Scott of Florida oversaw an enormous wave of spending on digital ads at the National Republican Senatorial Committee.",
+          "copyright": "Emil Lippe for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2022/09/01/multimedia/00pol-gopmoney-scott/00pol-gopmoney-scott-threeByTwoSmallAt2X-v2.jpg",
+          "format": "threeByTwoSmallAt2X",
+          "height": 400,
+          "width": 600,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Senator Rick Scott of Florida oversaw an enormous wave of spending on digital ads at the National Republican Senatorial Committee.",
+          "copyright": "Emil Lippe for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2022/09/01/multimedia/00pol-gopmoney-scott/00pol-gopmoney-scott-thumbLarge.jpg",
+          "format": "Large Thumbnail",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Senator Rick Scott of Florida oversaw an enormous wave of spending on digital ads at the National Republican Senatorial Committee.",
+          "copyright": "Emil Lippe for The New York Times"
+        }
+      ],
+      "short_url": "https://nyti.ms/3CWsl4z"
+    },
+    {
+      "section": "us",
+      "subsection": "politics",
+      "title": "Trump Lashes Out in First Rally Since F.B.I. Search",
+      "abstract": "Donald J. Trump and President Biden have both made recent appearances in Pennsylvania, one of the key states in November’s midterm elections.",
+      "url": "https://www.nytimes.com/2022/09/04/us/politics/trump-rally-pennsylvania.html",
+      "uri": "nyt://article/fba6e2de-8690-565b-96bf-e101eaf2087a",
+      "byline": "By Katie Glueck and Michael C. Bender",
+      "item_type": "Article",
+      "updated_date": "2022-09-04T02:07:56-04:00",
+      "created_date": "2022-09-04T01:37:02-04:00",
+      "published_date": "2022-09-04T01:37:02-04:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "United States Politics and Government",
+        "Midterm Elections (2022)",
+        "Elections, Senate",
+        "Elections, State Legislature",
+        "Elections, House of Representatives",
+        "Elections, Governors"
+      ],
+      "org_facet": [
+        "Republican Party"
+      ],
+      "per_facet": [
+        "Biden, Joseph R Jr",
+        "Trump, Donald J"
+      ],
+      "geo_facet": [
+        "Pennsylvania",
+        "Wilkes-Barre (Pa)"
+      ],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2022/10/03/lens/03pol-trump-rally/merlin_212404635_a376339e-390b-4ee9-af39-4d28158addf9-superJumbo.jpg",
+          "format": "Super Jumbo",
+          "height": 900,
+          "width": 1350,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Former President Donald J. Trump speaks at his first rally since his home was searched by F.B.I. agents Aug. 8. ",
+          "copyright": "Hannah Beier for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2022/10/03/lens/03pol-trump-rally/merlin_212404635_a376339e-390b-4ee9-af39-4d28158addf9-threeByTwoSmallAt2X.jpg",
+          "format": "threeByTwoSmallAt2X",
+          "height": 400,
+          "width": 600,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Former President Donald J. Trump speaks at his first rally since his home was searched by F.B.I. agents Aug. 8. ",
+          "copyright": "Hannah Beier for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2022/10/03/lens/03pol-trump-rally/03pol-trump-rally-thumbLarge.jpg",
+          "format": "Large Thumbnail",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Former President Donald J. Trump speaks at his first rally since his home was searched by F.B.I. agents Aug. 8. ",
+          "copyright": "Hannah Beier for The New York Times"
+        }
+      ],
+      "short_url": "https://nyti.ms/3wXG734"
+    },
+    {
+      "section": "business",
+      "subsection": "energy-environment",
+      "title": "India’s Electric Vehicle Push Is Riding on Mopeds and Rickshaws",
+      "abstract": "The country’s success with two- and three-wheeled vehicles that sell for as little as $1,000 could be a template for other developing countries.",
+      "url": "https://www.nytimes.com/2022/09/04/business/energy-environment/india-electric-vehicles-moped-rickshaw.html",
+      "uri": "nyt://article/82c01ba2-715b-5f63-83f5-8ecbe877d191",
+      "byline": "By Emily Schmall, Jack Ewing and Atul Loke",
+      "item_type": "Article",
+      "updated_date": "2022-09-04T03:00:13-04:00",
+      "created_date": "2022-09-04T03:00:13-04:00",
+      "published_date": "2022-09-04T03:00:13-04:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "Automobiles",
+        "Electric and Hybrid Vehicles",
+        "Pedicabs and Rickshaws",
+        "Batteries",
+        "Motorcycles, Motor Bikes and Motorscooters",
+        "Factories and Manufacturing",
+        "International Trade and World Market",
+        "Production",
+        "Prices (Fares, Fees and Rates)",
+        "Third World and Developing Countries"
+      ],
+      "org_facet": [
+        "Tesla Motors Inc",
+        "Ola Electric",
+        "Mahindra Group"
+      ],
+      "per_facet": [
+        "Aggarwal, Bhavish",
+        "Modi, Narendra"
+      ],
+      "geo_facet": [
+        "India",
+        "China"
+      ],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2022/08/30/business/00india-ev01/00india-ev01-superJumbo.jpg",
+          "format": "Super Jumbo",
+          "height": 1365,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "A driver swapping a fresh battery into an electric moped.",
+          "copyright": ""
+        },
+        {
+          "url": "https://static01.nyt.com/images/2022/08/30/business/00india-ev01/00india-ev01-threeByTwoSmallAt2X.jpg",
+          "format": "threeByTwoSmallAt2X",
+          "height": 400,
+          "width": 600,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "A driver swapping a fresh battery into an electric moped.",
+          "copyright": ""
+        },
+        {
+          "url": "https://static01.nyt.com/images/2022/08/30/business/00india-ev01/00india-ev01-thumbLarge.jpg",
+          "format": "Large Thumbnail",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "A driver swapping a fresh battery into an electric moped.",
+          "copyright": ""
+        }
+      ],
+      "short_url": "https://nyti.ms/3RzFODf"
+    },
+    {
+      "section": "sports",
+      "subsection": "tennis",
+      "title": "Seven Days That Closed Out a Career",
+      "abstract": "At the U.S. Open, Serena Williams laughed, rocked sparkly shoes, rang the bell at the stock exchange, beat two opponents, teared up and said goodbye. She didn’t win, but she didn’t lose.",
+      "url": "https://www.nytimes.com/2022/09/04/sports/tennis/serena-williams-last-us-open.html",
+      "uri": "nyt://article/fcc5f36e-6724-536d-957c-39c62d03bfdb",
+      "byline": "By John Branch",
+      "item_type": "Article",
+      "updated_date": "2022-09-04T05:00:30-04:00",
+      "created_date": "2022-09-04T05:00:30-04:00",
+      "published_date": "2022-09-04T05:00:30-04:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "Tennis",
+        "United States Open (Tennis)",
+        "Content Type: Personal Profile"
+      ],
+      "org_facet": [],
+      "per_facet": [
+        "Williams, Serena"
+      ],
+      "geo_facet": [],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2022/09/04/sports/tennis/04usopen-serena-last-slide-7AXO/04usopen-serena-last-slide-7AXO-superJumbo.jpg",
+          "format": "Super Jumbo",
+          "height": 1365,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Michelle V. Agins/The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2022/09/04/sports/tennis/04usopen-serena-last-slide-7AXO/04usopen-serena-last-slide-7AXO-threeByTwoSmallAt2X-v2.jpg",
+          "format": "threeByTwoSmallAt2X",
+          "height": 400,
+          "width": 600,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Michelle V. Agins/The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2022/09/04/sports/tennis/04usopen-serena-last-slide-7AXO/04usopen-serena-last-slide-7AXO-thumbLarge.jpg",
+          "format": "Large Thumbnail",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Michelle V. Agins/The New York Times"
+        }
+      ],
+      "short_url": "https://nyti.ms/3D27dtL"
+    },
+    {
+      "section": "science",
+      "subsection": "",
+      "title": "NASA Calls Off Launch of Artemis Moon Rocket for a 2nd Time",
+      "abstract": "After a pair of called-off launches, the latest caused by a large hydrogen leak, the agency is not expected to try again until later in the month or October.",
+      "url": "https://www.nytimes.com/2022/09/03/science/nasa-artemis-moon-mission.html",
+      "uri": "nyt://article/4b049341-8ac3-5a0b-9d76-d0ac75ad0d98",
+      "byline": "By Kenneth Chang",
+      "item_type": "Article",
+      "updated_date": "2022-09-03T23:30:06-04:00",
+      "created_date": "2022-09-03T20:22:48-04:00",
+      "published_date": "2022-09-03T20:22:48-04:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "Moon",
+        "Rocket Science and Propulsion",
+        "Artemis Program",
+        "Space and Astronomy",
+        "United States Politics and Government",
+        "Private Spaceflight"
+      ],
+      "org_facet": [
+        "National Aeronautics and Space Administration"
+      ],
+      "per_facet": [],
+      "geo_facet": [],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2022/09/03/lens/03nasamooncaution-1/03nasamooncaution-1-superJumbo.jpg",
+          "format": "Super Jumbo",
+          "height": 1364,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Photographers departed an area at Kennedy Space Center on Saturday after NASA called off the launch of the Space Launch System rocket and Orion capsule.",
+          "copyright": "Joe Raedle/Getty Images"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2022/09/03/lens/03nasamooncaution-1/03nasamooncaution-1-threeByTwoSmallAt2X-v2.jpg",
+          "format": "threeByTwoSmallAt2X",
+          "height": 400,
+          "width": 600,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Photographers departed an area at Kennedy Space Center on Saturday after NASA called off the launch of the Space Launch System rocket and Orion capsule.",
+          "copyright": "Joe Raedle/Getty Images"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2022/09/03/lens/03nasamooncaution-1/03nasamooncaution-1-thumbLarge.jpg",
+          "format": "Large Thumbnail",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Photographers departed an area at Kennedy Space Center on Saturday after NASA called off the launch of the Space Launch System rocket and Orion capsule.",
+          "copyright": "Joe Raedle/Getty Images"
+        }
+      ],
+      "short_url": "https://nyti.ms/3qb5r1E"
+    },
+    {
+      "section": "realestate",
+      "subsection": "",
+      "title": "Town After Town, Residents Are Fighting Affordable Housing in Connecticut",
+      "abstract": "Local residents and elected officials are seeking to block large housing projects, warning that increased density could change the character of their towns.",
+      "url": "https://www.nytimes.com/2022/09/04/realestate/connecticut-affordable-housing-apartments.html",
+      "uri": "nyt://article/bf639bbd-15e0-5ac8-99ae-3491baedac4a",
+      "byline": "By Lisa Prevost",
+      "item_type": "Article",
+      "updated_date": "2022-09-04T05:00:17-04:00",
+      "created_date": "2022-09-04T05:00:17-04:00",
+      "published_date": "2022-09-04T05:00:17-04:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "Zoning",
+        "Affordable Housing",
+        "Real Estate and Housing (Residential)",
+        "Law and Legislation"
+      ],
+      "org_facet": [],
+      "per_facet": [],
+      "geo_facet": [
+        "Connecticut",
+        "Fairfield County (Conn)",
+        "Fairfield (Conn)",
+        "Greenwich (Conn)",
+        "New Canaan (Conn)",
+        "Woodbridge (Conn)"
+      ],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2022/09/01/realestate/01housingwars-sign/01housingwars-sign-superJumbo.jpg",
+          "format": "Super Jumbo",
+          "height": 2048,
+          "width": 1537,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Homeowners have raised about $84,000 for a legal fund to fight a proposed apartment complex downtown on Weed Street in New Canaan, Conn. ",
+          "copyright": "Jane Beiles for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2022/09/01/realestate/01housingwars-sign/01housingwars-sign-threeByTwoSmallAt2X.jpg",
+          "format": "threeByTwoSmallAt2X",
+          "height": 400,
+          "width": 600,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Homeowners have raised about $84,000 for a legal fund to fight a proposed apartment complex downtown on Weed Street in New Canaan, Conn. ",
+          "copyright": "Jane Beiles for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2022/09/01/realestate/01housingwars-sign/01housingwars-sign-thumbLarge.jpg",
+          "format": "Large Thumbnail",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Homeowners have raised about $84,000 for a legal fund to fight a proposed apartment complex downtown on Weed Street in New Canaan, Conn. ",
+          "copyright": "Jane Beiles for The New York Times"
+        }
+      ],
+      "short_url": "https://nyti.ms/3B9IguW"
+    },
+    {
+      "section": "science",
+      "subsection": "",
+      "title": "The Curious Hole in My Head",
+      "abstract": "Born without my left temporal lobe, a brain region thought to be critical for language, I’ve been a research subject for much of my life.",
+      "url": "https://www.nytimes.com/2022/09/04/science/brain-language-research.html",
+      "uri": "nyt://article/f84879d0-dbad-5f7d-b6dd-daea9c4bae33",
+      "byline": "By Helen Santoro",
+      "item_type": "Article",
+      "updated_date": "2022-09-04T05:00:18-04:00",
+      "created_date": "2022-09-04T05:00:18-04:00",
+      "published_date": "2022-09-04T05:00:18-04:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "Stroke",
+        "Brain",
+        "Language and Languages",
+        "Babies and Infants",
+        "Tests (Medical)",
+        "Research",
+        "your-feed-science"
+      ],
+      "org_facet": [
+        "Massachusetts Institute of Technology"
+      ],
+      "per_facet": [],
+      "geo_facet": [],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2022/09/06/science/00SCI-BRAIN1/00SCI-BRAIN1-superJumbo.jpg",
+          "format": "Super Jumbo",
+          "height": 1366,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Helen Santoro, left, examining a scan of her brain with her mother at an M.I.T. lab in Cambridge, Mass., in July.",
+          "copyright": "Kayana Szymczak for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2022/09/06/science/00SCI-BRAIN1/00SCI-BRAIN1-threeByTwoSmallAt2X-v2.jpg",
+          "format": "threeByTwoSmallAt2X",
+          "height": 400,
+          "width": 600,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Helen Santoro, left, examining a scan of her brain with her mother at an M.I.T. lab in Cambridge, Mass., in July.",
+          "copyright": "Kayana Szymczak for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2022/09/06/science/00SCI-BRAIN1/00SCI-BRAIN1-thumbLarge.jpg",
+          "format": "Large Thumbnail",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Helen Santoro, left, examining a scan of her brain with her mother at an M.I.T. lab in Cambridge, Mass., in July.",
+          "copyright": "Kayana Szymczak for The New York Times"
+        }
+      ],
+      "short_url": "https://nyti.ms/3BcP4YN"
+    },
+    {
+      "section": "nyregion",
+      "subsection": "",
+      "title": "The Final Days of New York’s ‘Wild West’ Outdoor Dining Scene",
+      "abstract": "It is a pivotal moment for the city’s restaurants — and the cobbled-together eating areas created during the pandemic.",
+      "url": "https://www.nytimes.com/2022/09/04/nyregion/nyc-outdoor-dining-sheds.html",
+      "uri": "nyt://article/d5619874-e0b5-552f-8c6b-8541e70710fb",
+      "byline": "By Dodai Stewart and Timothy Mulcare",
+      "item_type": "Article",
+      "updated_date": "2022-09-04T05:00:19-04:00",
+      "created_date": "2022-09-04T05:00:19-04:00",
+      "published_date": "2022-09-04T05:00:19-04:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "Restaurants",
+        "Sidewalks",
+        "Bars and Nightclubs",
+        "Regulation and Deregulation of Industry",
+        "Noise"
+      ],
+      "org_facet": [],
+      "per_facet": [],
+      "geo_facet": [
+        "Bushwick (Brooklyn, NY)",
+        "Lower East Side (Manhattan, NY)"
+      ],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2022/09/02/nyregion/00dining-sheds-promo/00dining-sheds-promo-superJumbo.jpg",
+          "format": "Super Jumbo",
+          "height": 1365,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Timothy Mulcare for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2022/09/02/nyregion/00dining-sheds-promo/00dining-sheds-promo-threeByTwoSmallAt2X.jpg",
+          "format": "threeByTwoSmallAt2X",
+          "height": 400,
+          "width": 600,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Timothy Mulcare for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2022/09/02/nyregion/00dining-sheds-promo/00dining-sheds-promo-thumbLarge.jpg",
+          "format": "Large Thumbnail",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Timothy Mulcare for The New York Times"
+        }
+      ],
+      "short_url": "https://nyti.ms/3Bfcf4Q"
+    },
+    {
+      "section": "dining",
+      "subsection": "",
+      "title": "From Red Lobster to Running Some of New York’s Marquee Restaurants",
+      "abstract": "Chip Wade takes over Danny Meyer’s role in running Union Square Hospitality Group, a move that signals a growing conversation between two sides of the industry.",
+      "url": "https://www.nytimes.com/2022/08/30/dining/chip-wade-union-square-hospitality-group.html",
+      "uri": "nyt://article/cdb788e0-a1c2-54de-a8c5-c5b2b6fe0ee7",
+      "byline": "By Kim Severson",
+      "item_type": "Article",
+      "updated_date": "2022-08-30T21:14:45-04:00",
+      "created_date": "2022-08-30T05:00:16-04:00",
+      "published_date": "2022-08-30T05:00:16-04:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "Restaurants"
+      ],
+      "org_facet": [
+        "Ci Siamo (Manhattan, NY, Restaurant)",
+        "Daily Provisions (Manhattan, NY, Restaurant)",
+        "Cucina Alba (Manhattan, NY, Restaurant)",
+        "Gramercy Tavern (Manhattan, NY, Restaurant)",
+        "Olive Garden Italian Restaurants",
+        "Red Lobster Restaurants",
+        "Ruby Tuesday Inc",
+        "Shake Shack Inc",
+        "Union Square Hospitality Group"
+      ],
+      "per_facet": [
+        "Meyer, Danny",
+        "Wade, Chip"
+      ],
+      "geo_facet": [],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2022/08/31/dining/31wade1/merlin_211707309_25a7f072-09ec-4618-a5c6-c5d406c6457a-superJumbo.jpg",
+          "format": "Super Jumbo",
+          "height": 1463,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Chip Wade, the newly minted chief executive officer of the Union Square Hospitality Group, visits Marta, one of the company’s New York restaurants.",
+          "copyright": "Timothy O'Connell for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2022/08/31/dining/31wade1/merlin_211707309_25a7f072-09ec-4618-a5c6-c5d406c6457a-threeByTwoSmallAt2X.jpg",
+          "format": "threeByTwoSmallAt2X",
+          "height": 400,
+          "width": 600,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Chip Wade, the newly minted chief executive officer of the Union Square Hospitality Group, visits Marta, one of the company’s New York restaurants.",
+          "copyright": "Timothy O'Connell for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2022/08/31/dining/31wade1/merlin_211707309_25a7f072-09ec-4618-a5c6-c5d406c6457a-thumbLarge.jpg",
+          "format": "Large Thumbnail",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Chip Wade, the newly minted chief executive officer of the Union Square Hospitality Group, visits Marta, one of the company’s New York restaurants.",
+          "copyright": "Timothy O'Connell for The New York Times"
+        }
+      ],
+      "short_url": "https://nyti.ms/3wFhzeW"
+    },
+    {
+      "section": "climate",
+      "subsection": "",
+      "title": "Dressing for Hot: How a Warming Planet Is Changing What We Wear",
+      "abstract": "A climate reporter in Washington set out to test clothes designed for keeping cool. He found a few good (but pricey) options, along with some questionable claims.",
+      "url": "https://www.nytimes.com/2022/09/03/climate/cooling-clothes-climate-change.html",
+      "uri": "nyt://article/35ec437c-93a5-5952-8445-74a77fa89d8f",
+      "byline": "By Christopher Flavelle and Josie Norton",
+      "item_type": "Article",
+      "updated_date": "2022-09-03T23:08:46-04:00",
+      "created_date": "2022-09-03T05:00:19-04:00",
+      "published_date": "2022-09-03T05:00:19-04:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "Fashion and Apparel",
+        "Skin",
+        "Global Warming",
+        "Jeans (Apparel)",
+        "Wool and Woolen Goods",
+        "Innovation",
+        "Sweating",
+        "Protective Clothing and Gear",
+        "Heat and Heat Waves",
+        "Factories and Manufacturing"
+      ],
+      "org_facet": [],
+      "per_facet": [],
+      "geo_facet": [],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2022/08/30/climate/00cli-heat-clothes-promo/00cli-heat-clothes-promo-superJumbo.jpg",
+          "format": "Super Jumbo",
+          "height": 1367,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Josie Norton"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2022/08/30/climate/00cli-heat-clothes-promo/00cli-heat-clothes-promo-threeByTwoSmallAt2X.jpg",
+          "format": "threeByTwoSmallAt2X",
+          "height": 400,
+          "width": 600,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Josie Norton"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2022/08/30/climate/00cli-heat-clothes-promo/00cli-heat-clothes-promo-thumbLarge.jpg",
+          "format": "Large Thumbnail",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Josie Norton"
+        }
+      ],
+      "short_url": "https://nyti.ms/3qf2o8s"
+    },
+    {
+      "section": "briefing",
+      "subsection": "",
+      "title": "The Weekender",
+      "abstract": "A review of “The Rings of Power.” Also in this edition: how pizza rolls were hit by supply chain issues, and the mink that became a YouTube star.",
+      "url": "https://www.nytimes.com/interactive/2022/09/02/briefing/the-weekender.html",
+      "uri": "nyt://interactive/b9228277-24bf-5e72-854a-dbf5ca6366a4",
+      "byline": "By Jillian Rayfield",
+      "item_type": "Interactive",
+      "updated_date": "2022-09-02T10:16:40-04:00",
+      "created_date": "2022-09-02T10:16:40-04:00",
+      "published_date": "2022-09-02T10:16:40-04:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [],
+      "org_facet": [],
+      "per_facet": [],
+      "geo_facet": [],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2022/09/09/lens/0902-Weekender-NL-promo-grid-new/0902-Weekender-NL-promo-grid-new-superJumbo.jpg",
+          "format": "Super Jumbo",
+          "height": 1334,
+          "width": 2000,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": ""
+        },
+        {
+          "url": "https://static01.nyt.com/images/2022/09/09/lens/0902-Weekender-NL-promo-grid-new/0902-Weekender-NL-promo-grid-new-threeByTwoSmallAt2X.jpg",
+          "format": "threeByTwoSmallAt2X",
+          "height": 400,
+          "width": 600,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": ""
+        },
+        {
+          "url": "https://static01.nyt.com/images/2022/09/09/lens/0902-Weekender-NL-promo-grid-new/0902-Weekender-NL-promo-grid-new-thumbLarge.jpg",
+          "format": "Large Thumbnail",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": ""
+        }
+      ],
+      "short_url": "https://nyti.ms/3wQNyca"
+    },
+    {
+      "section": "briefing",
+      "subsection": "",
+      "title": "The New York Times News Quiz, September 2, 2022",
+      "abstract": "Did you follow the news this week? Take our quiz to see how well you stack up with other Times readers.",
+      "url": "https://www.nytimes.com/interactive/2022/09/02/briefing/02-news-quiz-nasa-gorbachev.html",
+      "uri": "nyt://interactive/3bba1974-6ab2-527f-afad-7ae89ef609a9",
+      "byline": "",
+      "item_type": "Interactive",
+      "updated_date": "2022-09-02T05:00:01-04:00",
+      "created_date": "2022-09-02T05:00:01-04:00",
+      "published_date": "2022-09-02T05:00:01-04:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [],
+      "org_facet": [],
+      "per_facet": [],
+      "geo_facet": [],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2022/09/01/multimedia/01news-quiz-artemis1/01news-quiz-artemis1-superJumbo.jpg",
+          "format": "Super Jumbo",
+          "height": 1365,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Chandan Khanna/Agence France-Presse — Getty Images"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2022/09/01/multimedia/01news-quiz-artemis1/01news-quiz-artemis1-threeByTwoSmallAt2X.jpg",
+          "format": "threeByTwoSmallAt2X",
+          "height": 400,
+          "width": 600,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Chandan Khanna/Agence France-Presse — Getty Images"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2022/09/01/multimedia/01news-quiz-artemis1/01news-quiz-artemis1-thumbLarge.jpg",
+          "format": "Large Thumbnail",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Chandan Khanna/Agence France-Presse — Getty Images"
+        }
+      ],
+      "short_url": "https://nyti.ms/3wPcyAu"
+    },
+    {
+      "section": "theater",
+      "subsection": "",
+      "title": "After a Long, Starring Run, Will Racism at Last Get the Hook?",
+      "abstract": "We can no longer ignore the theater’s systemic inequities. But leaving them behind may remake the industry in unexpected ways.",
+      "url": "https://www.nytimes.com/2022/08/31/theater/theater-diversity-equity-inclusion-racism.html",
+      "uri": "nyt://article/d415c33d-a149-538e-b01f-32ca2d788e50",
+      "byline": "By Jesse Green",
+      "item_type": "Article",
+      "updated_date": "2022-09-03T22:15:44-04:00",
+      "created_date": "2022-08-31T05:00:47-04:00",
+      "published_date": "2022-08-31T05:00:47-04:00",
+      "material_type_facet": "",
+      "kicker": "The Reformation",
+      "des_facet": [
+        "Theater",
+        "Black People",
+        "Asian-Americans",
+        "Minorities"
+      ],
+      "org_facet": [
+        "Wilma Theater",
+        "Long Wharf Theater",
+        "Ma-Yi Theater Co",
+        "We See You, White American Theater (Theater Coalition)"
+      ],
+      "per_facet": [
+        "Ijames, James",
+        "Padron, Jacob G",
+        "Ralph B. Pena"
+      ],
+      "geo_facet": [],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2022/09/04/arts/04-equity-essay-updateillo/04-equity-essay-updateillo-superJumbo.jpg",
+          "format": "Super Jumbo",
+          "height": 1419,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Deena So'Oteh"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2022/09/04/arts/04-equity-essay-updateillo/04-equity-essay-updateillo-threeByTwoSmallAt2X.jpg",
+          "format": "threeByTwoSmallAt2X",
+          "height": 400,
+          "width": 600,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Deena So'Oteh"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2022/09/04/arts/04-equity-essay-updateillo/04-equity-essay-updateillo-thumbLarge.jpg",
+          "format": "Large Thumbnail",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Deena So'Oteh"
+        }
+      ],
+      "short_url": "https://nyti.ms/3AyVTSQ"
+    },
+    {
+      "section": "opinion",
+      "subsection": "",
+      "title": "Does Biden Really Believe We Are in a Crisis of Democracy?",
+      "abstract": "The president’s strategy and rhetoric makes more sense if he doesn’t.",
+      "url": "https://www.nytimes.com/2022/09/03/opinion/joe-biden-democracy-crisis.html",
+      "uri": "nyt://article/142467da-46a8-5fae-8f9f-56d2be0f11f5",
+      "byline": "By Ross Douthat",
+      "item_type": "Article",
+      "updated_date": "2022-09-03T15:00:08-04:00",
+      "created_date": "2022-09-03T15:00:08-04:00",
+      "published_date": "2022-09-03T15:00:08-04:00",
+      "material_type_facet": "",
+      "kicker": "Ross Douthat",
+      "des_facet": [
+        "Presidential Election of 2020",
+        "Democracy (Theory and Philosophy)",
+        "Primaries and Caucuses",
+        "Elections, Senate",
+        "Midterm Elections (2022)",
+        "Dobbs v Jackson Women's Health Organization (Supreme Court Decision)",
+        "Abortion"
+      ],
+      "org_facet": [
+        "Democratic Party",
+        "Republican Party"
+      ],
+      "per_facet": [
+        "Biden, Joseph R Jr",
+        "Trump, Donald J"
+      ],
+      "geo_facet": [],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2022/09/05/opinion/03douthat1/merlin_212288202_47663598-36ba-49cf-888b-e2270545270b-superJumbo.jpg",
+          "format": "Super Jumbo",
+          "height": 1366,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Oliver Contreras for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2022/09/05/opinion/03douthat1/03douthat1-threeByTwoSmallAt2X.jpg",
+          "format": "threeByTwoSmallAt2X",
+          "height": 400,
+          "width": 600,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Oliver Contreras for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2022/09/05/opinion/03douthat1/03douthat1-thumbLarge.jpg",
+          "format": "Large Thumbnail",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Oliver Contreras for The New York Times"
+        }
+      ],
+      "short_url": "https://nyti.ms/3TFYymx"
+    },
+    {
+      "section": "opinion",
+      "subsection": "",
+      "title": "Women Are So Fired Up to Vote, I’ve Never Seen Anything Like It",
+      "abstract": "Since Roe v. Wade was overturned, women have registered to vote in incredible numbers.",
+      "url": "https://www.nytimes.com/2022/09/03/opinion/women-voters-roe-abortion-midterms.html",
+      "uri": "nyt://article/b2a8c159-79a9-52f4-95a0-ae1db5b9b4b2",
+      "byline": "By Tom Bonier",
+      "item_type": "Article",
+      "updated_date": "2022-09-03T09:00:03-04:00",
+      "created_date": "2022-09-03T09:00:03-04:00",
+      "published_date": "2022-09-03T09:00:03-04:00",
+      "material_type_facet": "",
+      "kicker": "Guest Essay",
+      "des_facet": [
+        "Abortion",
+        "Dobbs v Jackson Women's Health Organization (Supreme Court Decision)",
+        "Midterm Elections (2022)",
+        "Voting Rights, Registration and Requirements"
+      ],
+      "org_facet": [],
+      "per_facet": [],
+      "geo_facet": [
+        "United States"
+      ],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2022/09/03/opinion/03bonier/merlin_211858227_095b10ba-2f40-4452-8179-782c9d94a83f-superJumbo.jpg",
+          "format": "Super Jumbo",
+          "height": 1365,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Dolly Faibyshev for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2022/09/03/opinion/03bonier/merlin_211858227_095b10ba-2f40-4452-8179-782c9d94a83f-threeByTwoSmallAt2X.jpg",
+          "format": "threeByTwoSmallAt2X",
+          "height": 400,
+          "width": 600,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Dolly Faibyshev for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2022/09/03/opinion/03bonier/03bonier-thumbLarge-v2.jpg",
+          "format": "Large Thumbnail",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Dolly Faibyshev for The New York Times"
+        }
+      ],
+      "short_url": "https://nyti.ms/3RgSqzl"
+    },
+    {
+      "section": "opinion",
+      "subsection": "",
+      "title": "Katrina Babies Are Hurting, but We Are Healing, Too",
+      "abstract": "What happened to the children who lived through Hurricane Katrina?",
+      "url": "https://www.nytimes.com/2022/09/04/opinion/katrina-babies-hbo-new-orleans.html",
+      "uri": "nyt://article/c8a4d00b-cd5d-534b-9e7f-d8f43a237258",
+      "byline": "By Dauté Martin",
+      "item_type": "Article",
+      "updated_date": "2022-09-04T06:00:09-04:00",
+      "created_date": "2022-09-04T06:00:09-04:00",
+      "published_date": "2022-09-04T06:00:09-04:00",
+      "material_type_facet": "",
+      "kicker": "Guest Essay",
+      "des_facet": [
+        "Katrina Babies (Movie)",
+        "Hurricane Katrina (2005)",
+        "Gentrification",
+        "Children and Childhood",
+        "Black People",
+        "Documentary Films and Programs",
+        "Families and Family Life"
+      ],
+      "org_facet": [
+        "Home Box Office"
+      ],
+      "per_facet": [
+        "Buckles, Edward Jr"
+      ],
+      "geo_facet": [
+        "New Orleans (La)"
+      ],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2022/09/04/opinion/04Martin-2/merlin_211853235_11ed2306-7f1a-4b50-9375-113174faacd5-superJumbo.jpg",
+          "format": "Super Jumbo",
+          "height": 2048,
+          "width": 1366,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Edward Buckles Jr., a New Orleans native who was 13 when Hurricane Katrina hit and directed the new documentary “Katrina Babies.”",
+          "copyright": "Chansey Augustine, via Associated Press"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2022/09/04/opinion/04Martin-2/04Martin-2-threeByTwoSmallAt2X.jpg",
+          "format": "threeByTwoSmallAt2X",
+          "height": 400,
+          "width": 600,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Edward Buckles Jr., a New Orleans native who was 13 when Hurricane Katrina hit and directed the new documentary “Katrina Babies.”",
+          "copyright": "Chansey Augustine, via Associated Press"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2022/09/04/opinion/04Martin-2/04Martin-2-thumbLarge.jpg",
+          "format": "Large Thumbnail",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Edward Buckles Jr., a New Orleans native who was 13 when Hurricane Katrina hit and directed the new documentary “Katrina Babies.”",
+          "copyright": "Chansey Augustine, via Associated Press"
+        }
+      ],
+      "short_url": "https://nyti.ms/3CTpnxH"
+    },
+    {
+      "section": "opinion",
+      "subsection": "",
+      "title": "The End-of-Summer Child Care Crunch Is Here. I’m Not Amused.",
+      "abstract": "North Carolina offers a frustrating example of how hard it can be to make changes that help families.",
+      "url": "https://www.nytimes.com/2022/09/03/opinion/summer-child-care.html",
+      "uri": "nyt://article/f4d91c47-ea6b-5833-bf22-fcdd2e8c05cb",
+      "byline": "By Jessica Grose",
+      "item_type": "Article",
+      "updated_date": "2022-09-03T11:00:03-04:00",
+      "created_date": "2022-09-03T11:00:03-04:00",
+      "published_date": "2022-09-03T11:00:03-04:00",
+      "material_type_facet": "",
+      "kicker": "Jessica Grose",
+      "des_facet": [
+        "internal-sub-only-nl",
+        "Child Care",
+        "Camps and Camping",
+        "Day Care Centers",
+        "Travel and Vacations",
+        "Amusement and Theme Parks"
+      ],
+      "org_facet": [
+        "University of North Carolina",
+        "Instagram Inc"
+      ],
+      "per_facet": [],
+      "geo_facet": [
+        "Virginia",
+        "Chapel Hill (NC)",
+        "Durham (NC)",
+        "Raleigh (NC)"
+      ],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2022/09/03/opinion/03grose-image2/03grose-image2-superJumbo.jpg",
+          "format": "Super Jumbo",
+          "height": 2048,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Eleanor Davis"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2022/09/03/opinion/03grose-image2/03grose-image2-threeByTwoSmallAt2X.jpg",
+          "format": "threeByTwoSmallAt2X",
+          "height": 400,
+          "width": 600,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Eleanor Davis"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2022/09/03/opinion/03grose-image2/03grose-image2-thumbLarge.jpg",
+          "format": "Large Thumbnail",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Eleanor Davis"
+        }
+      ],
+      "short_url": "https://nyti.ms/3RCG98u"
+    },
+    {
+      "section": "opinion",
+      "subsection": "",
+      "title": "Republicans Are Showing Contempt for the Rules",
+      "abstract": "The party is turning against a political commitment to fairness.",
+      "url": "https://www.nytimes.com/2022/09/03/opinion/republican-rules-michigan-alaska.html",
+      "uri": "nyt://article/319cca10-be11-529e-b055-0129570c9850",
+      "byline": "By Jamelle Bouie",
+      "item_type": "Article",
+      "updated_date": "2022-09-03T11:10:50-04:00",
+      "created_date": "2022-09-03T10:15:03-04:00",
+      "published_date": "2022-09-03T10:15:03-04:00",
+      "material_type_facet": "",
+      "kicker": "Jamelle Bouie",
+      "des_facet": [
+        "internal-sub-only-nl",
+        "United States Politics and Government",
+        "Law and Legislation",
+        "Polls and Public Opinion"
+      ],
+      "org_facet": [
+        "Republican Party"
+      ],
+      "per_facet": [
+        "Palin, Sarah"
+      ],
+      "geo_facet": [
+        "Michigan",
+        "Alaska"
+      ],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2022/09/03/opinion/03bouie-newsletter-1/merlin_184385691_d96220a2-6783-41f6-9728-db2577b773c9-superJumbo.jpg",
+          "format": "Super Jumbo",
+          "height": 1365,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Mark Peterson for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2022/09/03/opinion/03bouie-newsletter-1/merlin_184385691_d96220a2-6783-41f6-9728-db2577b773c9-threeByTwoSmallAt2X.jpg",
+          "format": "threeByTwoSmallAt2X",
+          "height": 400,
+          "width": 600,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Mark Peterson for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2022/09/03/opinion/03bouie-newsletter-1/03bouie-newsletter-1-thumbLarge.jpg",
+          "format": "Large Thumbnail",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Mark Peterson for The New York Times"
+        }
+      ],
+      "short_url": "https://nyti.ms/3RAFHau"
+    },
+    {
+      "section": "opinion",
+      "subsection": "",
+      "title": "The Post-Colonoscopy Male Friendship Test",
+      "abstract": "What the pandemic, parenthood and nomadism took away from my life, I replaced with surprisingly intimate connections with other men.",
+      "url": "https://www.nytimes.com/2022/09/03/opinion/men-friendship-middle-age.html",
+      "uri": "nyt://article/59f84184-6502-5d5b-b88c-38c071149543",
+      "byline": "By Boris Fishman",
+      "item_type": "Article",
+      "updated_date": "2022-09-03T15:19:16-04:00",
+      "created_date": "2022-09-03T11:15:03-04:00",
+      "published_date": "2022-09-03T11:15:03-04:00",
+      "material_type_facet": "",
+      "kicker": "Guest Essay",
+      "des_facet": [
+        "Friendship",
+        "Men and Boys"
+      ],
+      "org_facet": [],
+      "per_facet": [],
+      "geo_facet": [],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2022/09/03/opinion/sunday/03Fisman/03Fisman-superJumbo.jpg",
+          "format": "Super Jumbo",
+          "height": 1500,
+          "width": 1500,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Illustration by Frank Augugliaro. Photographs by Getty Images"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2022/09/03/opinion/sunday/03Fisman/03Fisman-threeByTwoSmallAt2X.jpg",
+          "format": "threeByTwoSmallAt2X",
+          "height": 400,
+          "width": 600,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Illustration by Frank Augugliaro. Photographs by Getty Images"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2022/09/03/opinion/sunday/03Fisman/03Fisman-thumbLarge.jpg",
+          "format": "Large Thumbnail",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Illustration by Frank Augugliaro. Photographs by Getty Images"
+        }
+      ],
+      "short_url": "https://nyti.ms/3BbORoD"
+    },
+    {
+      "section": "opinion",
+      "subsection": "environment",
+      "title": "What Is Owed to Pakistan, Now One-Third Underwater",
+      "abstract": "The Global North can help Pakistan by taking responsibility for the losses and damages of extreme weather fueled in part by the burning of fossil fuels. ",
+      "url": "https://www.nytimes.com/2022/09/03/opinion/environment/floods-in-pakistan-climate-change.html",
+      "uri": "nyt://article/42d57c6c-b39a-5692-8b7c-1588f1c21eb5",
+      "byline": "By Fatima Bhutto",
+      "item_type": "Article",
+      "updated_date": "2022-09-03T11:00:05-04:00",
+      "created_date": "2022-09-03T11:00:05-04:00",
+      "published_date": "2022-09-03T11:00:05-04:00",
+      "material_type_facet": "",
+      "kicker": "Guest Essay",
+      "des_facet": [
+        "Greenhouse Gas Emissions",
+        "Floods",
+        "Compensation for Damages (Law)",
+        "Global Warming",
+        "Rain",
+        "Disasters and Emergencies"
+      ],
+      "org_facet": [],
+      "per_facet": [],
+      "geo_facet": [
+        "Pakistan",
+        "Punjab (Pakistan)"
+      ],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2022/09/06/opinion/03bhutto-2/merlin_212246634_6c57f8f2-4523-414a-a310-ce058b375e72-superJumbo.jpg",
+          "format": "Super Jumbo",
+          "height": 1366,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "A flooded residential area in the Dadu district of Sindh Province.",
+          "copyright": "Husnain Ali/Agence France-Presse &mdash; Getty Images"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2022/09/06/opinion/03bhutto-2/merlin_212246634_6c57f8f2-4523-414a-a310-ce058b375e72-threeByTwoSmallAt2X.jpg",
+          "format": "threeByTwoSmallAt2X",
+          "height": 400,
+          "width": 600,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "A flooded residential area in the Dadu district of Sindh Province.",
+          "copyright": "Husnain Ali/Agence France-Presse &mdash; Getty Images"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2022/09/06/opinion/03bhutto-2/03bhutto-2-thumbLarge.jpg",
+          "format": "Large Thumbnail",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "A flooded residential area in the Dadu district of Sindh Province.",
+          "copyright": "Husnain Ali/Agence France-Presse &mdash; Getty Images"
+        }
+      ],
+      "short_url": "https://nyti.ms/3q6O5D9"
+    },
+    {
+      "section": "opinion",
+      "subsection": "",
+      "title": "The Way You Get Around New York City Is About to Change",
+      "abstract": "The city’s crumbling infrastructure is finally getting some upgrades.",
+      "url": "https://www.nytimes.com/2022/09/04/opinion/new-york-trains.html",
+      "uri": "nyt://article/bbfafbb3-81cf-57e1-93cf-cd89ae649696",
+      "byline": "By Mara Gay and Timothy Mulcare",
+      "item_type": "Article",
+      "updated_date": "2022-09-04T06:01:31-04:00",
+      "created_date": "2022-09-04T06:00:16-04:00",
+      "published_date": "2022-09-04T06:00:16-04:00",
+      "material_type_facet": "",
+      "kicker": "Mara Gay",
+      "des_facet": [
+        "Railroads",
+        "Infrastructure (Public Works)",
+        "Stations and Terminals (Passenger)",
+        "Second Avenue Subway (NYC)",
+        "Subways"
+      ],
+      "org_facet": [
+        "Metropolitan Transportation Authority",
+        "New Jersey Transit",
+        "Metro-North Commuter Railroad",
+        "Grand Central Terminal (Manhattan, NY)",
+        "Port Authority Bus Terminal (Manhattan, NY)",
+        "Pennsylvania Station (Manhattan, NY)"
+      ],
+      "per_facet": [],
+      "geo_facet": [
+        "Bronx (NYC)",
+        "New Jersey",
+        "Westchester County (NY)",
+        "Connecticut",
+        "New York City",
+        "New York State"
+      ],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2022/06/18/opinion/00mulcare1/00mulcare1-superJumbo.jpg",
+          "format": "Super Jumbo",
+          "height": 2048,
+          "width": 1638,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Looking north through a portion of the subway tunnel below Second Avenue in Harlem.",
+          "copyright": ""
+        },
+        {
+          "url": "https://static01.nyt.com/images/2022/06/18/opinion/00mulcare1/00mulcare1-threeByTwoSmallAt2X.jpg",
+          "format": "threeByTwoSmallAt2X",
+          "height": 400,
+          "width": 600,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Looking north through a portion of the subway tunnel below Second Avenue in Harlem.",
+          "copyright": ""
+        },
+        {
+          "url": "https://static01.nyt.com/images/2022/06/18/opinion/00mulcare1/00mulcare1-thumbLarge.jpg",
+          "format": "Large Thumbnail",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Looking north through a portion of the subway tunnel below Second Avenue in Harlem.",
+          "copyright": ""
+        }
+      ],
+      "short_url": "https://nyti.ms/3AQwjZx"
+    },
+    {
+      "section": "arts",
+      "subsection": "music",
+      "title": "What Is a ‘Fake’ Artist in 2022?",
+      "abstract": "Firestorms over the “virtual rapper” FN Meka and faceless artists on Spotify have sparked conversations about alienation and creative agency.",
+      "url": "https://www.nytimes.com/2022/08/31/arts/music/popcast-fn-meka-fake-spotify-artists.html",
+      "uri": "nyt://article/d1c2f817-65a9-5fb9-a2e7-8c4406ba1ae1",
+      "byline": "",
+      "item_type": "Article",
+      "updated_date": "2022-09-01T10:01:13-04:00",
+      "created_date": "2022-08-31T15:28:00-04:00",
+      "published_date": "2022-08-31T15:28:00-04:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "Rap and Hip-Hop",
+        "Augmented Reality (Computers)",
+        "Audio Recordings, Downloads and Streaming",
+        "audio-neutral-informative"
+      ],
+      "org_facet": [
+        "Spotify"
+      ],
+      "per_facet": [
+        "FN Meka (Rapper)"
+      ],
+      "geo_facet": [],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2022/08/31/multimedia/31popcast1/31popcast-superJumbo.jpg",
+          "format": "Super Jumbo",
+          "height": 2048,
+          "width": 1830,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "via Capitol Records"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2022/08/31/multimedia/31popcast1/31popcast-threeByTwoSmallAt2X.jpg",
+          "format": "threeByTwoSmallAt2X",
+          "height": 400,
+          "width": 600,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "via Capitol Records"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2022/08/31/multimedia/31popcast1/31popcast-thumbLarge.jpg",
+          "format": "Large Thumbnail",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "via Capitol Records"
+        }
+      ],
+      "short_url": "https://nyti.ms/3CLxj3K"
+    },
+    {
+      "section": "nyregion",
+      "subsection": "",
+      "title": "Are You Ready for Your Fall Booster?",
+      "abstract": "Tell us about it.",
+      "url": "https://www.nytimes.com/2022/08/29/nyregion/are-you-ready-for-your-fall-booster.html",
+      "uri": "nyt://article/4924a05f-d9a9-5cba-a049-7da171d343a7",
+      "byline": "By The New York Times",
+      "item_type": "Article",
+      "updated_date": "2022-08-29T15:49:44-04:00",
+      "created_date": "2022-08-29T14:16:03-04:00",
+      "published_date": "2022-08-29T14:16:03-04:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "internal-open-access"
+      ],
+      "org_facet": [],
+      "per_facet": [],
+      "geo_facet": [],
+      "multimedia": null,
+      "short_url": "https://nyti.ms/3wD7qPQ"
+    },
+    {
+      "section": "books",
+      "subsection": "",
+      "title": "Beefcake, Goethe’s Boswell and the Greeks",
+      "abstract": "Our critic recommends old and new books.",
+      "url": "https://www.nytimes.com/2022/08/27/books/molly-young-book-recommendations.html",
+      "uri": "nyt://article/563f77c2-979e-56fb-8643-93d8fcec620b",
+      "byline": "By Molly Young",
+      "item_type": "Article",
+      "updated_date": "2022-08-27T07:50:04-04:00",
+      "created_date": "2022-08-27T07:50:04-04:00",
+      "published_date": "2022-08-27T07:50:04-04:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "Books and Literature",
+        "internal-sub-only-nl"
+      ],
+      "org_facet": [],
+      "per_facet": [],
+      "geo_facet": [],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2021/12/29/books/00RLTW-HALS/00RLTW-HALS-superJumbo.jpg",
+          "format": "Super Jumbo",
+          "height": 1901,
+          "width": 1576,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "“Lezende jongen,” by Frans Hals",
+          "copyright": ""
+        },
+        {
+          "url": "https://static01.nyt.com/images/2021/12/29/books/00RLTW-HALS/00RLTW-HALS-threeByTwoSmallAt2X.jpg",
+          "format": "threeByTwoSmallAt2X",
+          "height": 400,
+          "width": 600,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "“Lezende jongen,” by Frans Hals",
+          "copyright": ""
+        },
+        {
+          "url": "https://static01.nyt.com/images/2021/12/29/books/00RLTW-HALS/00RLTW-HALS-thumbLarge.jpg",
+          "format": "Large Thumbnail",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "“Lezende jongen,” by Frans Hals",
+          "copyright": ""
+        }
+      ],
+      "short_url": "https://nyti.ms/3RhDeBV"
+    },
+    {
+      "section": "world",
+      "subsection": "canada",
+      "title": "How Many Drinks a Week Are Safe? Canada Considers a Much Lower Limit",
+      "abstract": "Research to update Canada’s drinking guideline has found that there are no health benefits, only dangers, from alcohol.",
+      "url": "https://www.nytimes.com/2022/09/03/world/canada/alcohol-health-risk-guidelines.html",
+      "uri": "nyt://article/c9497071-d421-5f6b-b267-d89965afb29a",
+      "byline": "By Ian Austen",
+      "item_type": "Article",
+      "updated_date": "2022-09-03T14:37:39-04:00",
+      "created_date": "2022-09-03T06:00:02-04:00",
+      "published_date": "2022-09-03T06:00:02-04:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "Alcoholic Beverages",
+        "Politics and Government",
+        "Research"
+      ],
+      "org_facet": [],
+      "per_facet": [],
+      "geo_facet": [
+        "Canada"
+      ],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2022/09/03/world/03canadaletter-beer/03canadaletter-beer-superJumbo.jpg",
+          "format": "Super Jumbo",
+          "height": 1368,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Research has found that consuming more than six drinks per week greatly increases health risks.",
+          "copyright": "Ian Austen/The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2022/09/03/world/03canadaletter-beer/03canadaletter-beer-threeByTwoSmallAt2X.jpg",
+          "format": "threeByTwoSmallAt2X",
+          "height": 400,
+          "width": 600,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Research has found that consuming more than six drinks per week greatly increases health risks.",
+          "copyright": "Ian Austen/The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2022/09/03/world/03canadaletter-beer/03canadaletter-beer-thumbLarge.jpg",
+          "format": "Large Thumbnail",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Research has found that consuming more than six drinks per week greatly increases health risks.",
+          "copyright": "Ian Austen/The New York Times"
+        }
+      ],
+      "short_url": "https://nyti.ms/3QeEC7n"
+    },
+    {
+      "section": "world",
+      "subsection": "americas",
+      "title": "Chile Votes on Constitution That Would Enshrine Record Number of Rights",
+      "abstract": "In a single ballot on Sunday, Chileans will decide on abortion, universal health care, rights for nature and a record expansion of constitutional rights.",
+      "url": "https://www.nytimes.com/2022/09/03/world/americas/chile-constitution-vote.html",
+      "uri": "nyt://article/45c32071-6be7-54ce-bc1b-30102d63c6e4",
+      "byline": "By Jack Nicas",
+      "item_type": "Article",
+      "updated_date": "2022-09-04T00:38:43-04:00",
+      "created_date": "2022-09-03T14:18:20-04:00",
+      "published_date": "2022-09-03T14:18:20-04:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "Constitutions"
+      ],
+      "org_facet": [],
+      "per_facet": [
+        "Boric, Gabriel"
+      ],
+      "geo_facet": [
+        "Chile",
+        "Latin America"
+      ],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2022/09/03/world/03chile-vote-top/03chile-vote-top-superJumbo.jpg",
+          "format": "Super Jumbo",
+          "height": 1364,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Copies of the proposed constitution were handed out last week in Constitution Square, in front of La Moneda, where the president’s offices are housed.",
+          "copyright": "Tomas Munita for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2022/09/03/world/03chile-vote-top/03chile-vote-top-threeByTwoSmallAt2X.jpg",
+          "format": "threeByTwoSmallAt2X",
+          "height": 400,
+          "width": 600,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Copies of the proposed constitution were handed out last week in Constitution Square, in front of La Moneda, where the president’s offices are housed.",
+          "copyright": "Tomas Munita for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2022/09/03/world/03chile-vote-top/03chile-vote-top-thumbLarge.jpg",
+          "format": "Large Thumbnail",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Copies of the proposed constitution were handed out last week in Constitution Square, in front of La Moneda, where the president’s offices are housed.",
+          "copyright": "Tomas Munita for The New York Times"
+        }
+      ],
+      "short_url": "https://nyti.ms/3em3sF8"
+    },
+    {
+      "section": "business",
+      "subsection": "",
+      "title": "Movie Theaters Had a Great Summer. But There’s a Plot Twist.",
+      "abstract": "Hits like “Top Gun: Maverick” seemed to lead a revival, yet one chain is preparing for bankruptcy, another is awash in debt and blockbusters are in short supply.",
+      "url": "https://www.nytimes.com/2022/09/04/business/movie-theaters-closing-bankruptcy.html",
+      "uri": "nyt://article/c2607d70-aec4-54d8-87de-2b900de50a4e",
+      "byline": "By Brooks Barnes",
+      "item_type": "Article",
+      "updated_date": "2022-09-04T05:00:11-04:00",
+      "created_date": "2022-09-04T05:00:11-04:00",
+      "published_date": "2022-09-04T05:00:11-04:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "Movies",
+        "Theaters (Buildings)",
+        "Box Office Sales"
+      ],
+      "org_facet": [
+        "AMC Entertainment Holding Inc",
+        "Cinemark Holdings Inc",
+        "Cineplex Inc",
+        "National Assn of Theater Owners",
+        "Regal Cinemas"
+      ],
+      "per_facet": [
+        "Aron, Adam M",
+        "Fishman, Robert M"
+      ],
+      "geo_facet": [],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2022/08/30/business/00movie-theaters-01/merlin_211984761_b0556c40-9606-4ffb-9d08-76caf7f02a29-superJumbo.jpg",
+          "format": "Super Jumbo",
+          "height": 1366,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Cineworld, which operates Regal theaters like Regal L.A. Live, above, is expected to seek a restructuring in bankruptcy court.",
+          "copyright": "Philip Cheung for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2022/08/30/business/00movie-theaters-01/merlin_211984761_b0556c40-9606-4ffb-9d08-76caf7f02a29-threeByTwoSmallAt2X.jpg",
+          "format": "threeByTwoSmallAt2X",
+          "height": 400,
+          "width": 600,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Cineworld, which operates Regal theaters like Regal L.A. Live, above, is expected to seek a restructuring in bankruptcy court.",
+          "copyright": "Philip Cheung for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2022/08/30/business/00movie-theaters-01/00movie-theaters-01-thumbLarge.jpg",
+          "format": "Large Thumbnail",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Cineworld, which operates Regal theaters like Regal L.A. Live, above, is expected to seek a restructuring in bankruptcy court.",
+          "copyright": "Philip Cheung for The New York Times"
+        }
+      ],
+      "short_url": "https://nyti.ms/3cGa4Og"
+    },
+    {
+      "section": "nyregion",
+      "subsection": "",
+      "title": "‘That Nurse Should Be Alive’: How Police Delays Left a Suspect at Large",
+      "abstract": "The New York Police Department let a suspect in a Brooklyn rape case slip through its grasp. A month later he was arrested in connection with the murder of a nurse in Queens.",
+      "url": "https://www.nytimes.com/2022/09/03/nyregion/rape-case-delay-murder.html",
+      "uri": "nyt://article/a58c8212-1f84-561d-8357-06730028bc2a",
+      "byline": "By Ashley Southall",
+      "item_type": "Article",
+      "updated_date": "2022-09-03T23:50:36-04:00",
+      "created_date": "2022-09-03T05:00:10-04:00",
+      "published_date": "2022-09-03T05:00:10-04:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "Sex Crimes"
+      ],
+      "org_facet": [
+        "Police Department (NYC)"
+      ],
+      "per_facet": [
+        "Stewart, Samantha (d 2018)",
+        "Drayton, Danueal"
+      ],
+      "geo_facet": [
+        "Gowanus (Brooklyn, NY)"
+      ],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2022/08/23/nyregion/00svd-drayton1/merlin_141879018_de073112-6d2a-4a6f-9dea-001d4c0feb67-superJumbo.jpg",
+          "format": "Super Jumbo",
+          "height": 1365,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "A memorial sprang up outside the home of Samantha Stewart after she was found dead in Queens in July 2018.",
+          "copyright": "Go Nakamura for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2022/08/23/nyregion/00svd-drayton1/merlin_141879018_de073112-6d2a-4a6f-9dea-001d4c0feb67-threeByTwoSmallAt2X.jpg",
+          "format": "threeByTwoSmallAt2X",
+          "height": 400,
+          "width": 600,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "A memorial sprang up outside the home of Samantha Stewart after she was found dead in Queens in July 2018.",
+          "copyright": "Go Nakamura for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2022/08/23/nyregion/00svd-drayton1/00svd-drayton1-thumbLarge.jpg",
+          "format": "Large Thumbnail",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "A memorial sprang up outside the home of Samantha Stewart after she was found dead in Queens in July 2018.",
+          "copyright": "Go Nakamura for The New York Times"
+        }
+      ],
+      "short_url": "https://nyti.ms/3q6yrYk"
+    },
+    {
+      "section": "world",
+      "subsection": "asia",
+      "title": "In South Korea, a Hit Show Brings Autism Into the Spotlight",
+      "abstract": "“Extraordinary Attorney Woo” has raised awareness of autism in South Korea, where developmental disabilities are still a taboo subject for many people.",
+      "url": "https://www.nytimes.com/2022/09/04/world/asia/south-korea-autism-extraordinary-attorney-woo.html",
+      "uri": "nyt://article/6171a07e-6032-50e2-b9e9-d746cb1c5928",
+      "byline": "By Jin Yu Young",
+      "item_type": "Article",
+      "updated_date": "2022-09-04T03:00:17-04:00",
+      "created_date": "2022-09-04T03:00:17-04:00",
+      "published_date": "2022-09-04T03:00:17-04:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "Autism",
+        "Discrimination",
+        "Education (K-12)",
+        "Television",
+        "Extraordinary Attorney Woo (TV Program)",
+        "internal-storyline-no"
+      ],
+      "org_facet": [
+        "Netflix Inc"
+      ],
+      "per_facet": [],
+      "geo_facet": [
+        "South Korea"
+      ],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2022/09/03/world/03skorea-autism1/merlin_212073366_8a865fdc-711b-47f3-9132-69ff1df6b643-superJumbo.jpg",
+          "format": "Super Jumbo",
+          "height": 1365,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Teaching a child at Autism Partnership Korea, a center for young children with autism in Seoul.",
+          "copyright": "Chang W. Lee/The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2022/09/03/world/03skorea-autism1/merlin_212073366_8a865fdc-711b-47f3-9132-69ff1df6b643-threeByTwoSmallAt2X.jpg",
+          "format": "threeByTwoSmallAt2X",
+          "height": 400,
+          "width": 600,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Teaching a child at Autism Partnership Korea, a center for young children with autism in Seoul.",
+          "copyright": "Chang W. Lee/The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2022/09/03/world/03skorea-autism1/merlin_212073366_8a865fdc-711b-47f3-9132-69ff1df6b643-thumbLarge.jpg",
+          "format": "Large Thumbnail",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Teaching a child at Autism Partnership Korea, a center for young children with autism in Seoul.",
+          "copyright": "Chang W. Lee/The New York Times"
+        }
+      ],
+      "short_url": "https://nyti.ms/3BarJaa"
+    },
+    {
+      "section": "well",
+      "subsection": "move",
+      "title": "Why Is Pickleball So Popular?",
+      "abstract": "Everyone and their mother seems to be playing. What’s the draw — and is it really a workout?",
+      "url": "https://www.nytimes.com/2022/09/03/well/move/pickleball-popular-sport.html",
+      "uri": "nyt://article/8a5d9f62-38ae-5b4f-a458-e77982e0852e",
+      "byline": "By Juno DeMelo",
+      "item_type": "Article",
+      "updated_date": "2022-09-03T05:00:17-04:00",
+      "created_date": "2022-09-03T05:00:17-04:00",
+      "published_date": "2022-09-03T05:00:17-04:00",
+      "material_type_facet": "",
+      "kicker": "why not try",
+      "des_facet": [
+        "Pickleball (Sport)",
+        "Exercise",
+        "Content Type: Service",
+        "Research",
+        "Blood Pressure"
+      ],
+      "org_facet": [],
+      "per_facet": [],
+      "geo_facet": [],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2022/08/26/multimedia/26WNT-PICKLEBALL-WORKOUT1/26WNT-PICKLEBALL-WORKOUT1-superJumbo.jpg",
+          "format": "Super Jumbo",
+          "height": 1638,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Caleb Thal for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2022/08/26/multimedia/26WNT-PICKLEBALL-WORKOUT1/26WNT-PICKLEBALL-WORKOUT1-threeByTwoSmallAt2X.jpg",
+          "format": "threeByTwoSmallAt2X",
+          "height": 400,
+          "width": 600,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Caleb Thal for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2022/08/26/multimedia/26WNT-PICKLEBALL-WORKOUT1/26WNT-PICKLEBALL-WORKOUT1-thumbLarge.jpg",
+          "format": "Large Thumbnail",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Caleb Thal for The New York Times"
+        }
+      ],
+      "short_url": "https://nyti.ms/3KKUSM3"
+    },
+    {
+      "section": "well",
+      "subsection": "",
+      "title": "What to Know About the New Booster Shots",
+      "abstract": "New shots targeting the latest version of the Omicron variant will be available soon. When should you get yours? Here’s what experts recommend.",
+      "url": "https://www.nytimes.com/2022/08/31/well/covid-booster-shots-variants.html",
+      "uri": "nyt://article/b35af632-65df-529d-bfdd-7feb21fd6097",
+      "byline": "By Dani Blum",
+      "item_type": "Article",
+      "updated_date": "2022-09-02T08:21:46-04:00",
+      "created_date": "2022-08-31T11:46:19-04:00",
+      "published_date": "2022-08-31T11:46:19-04:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "Vaccination and Immunization",
+        "Coronavirus Omicron Variant",
+        "Coronavirus (2019-nCoV)"
+      ],
+      "org_facet": [],
+      "per_facet": [],
+      "geo_facet": [],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2022/08/30/multimedia/HFO-WELL-OMICRON-BOOSTER2/HFO-WELL-OMICRON-BOOSTER2-superJumbo.jpg",
+          "format": "Super Jumbo",
+          "height": 1365,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "The new shots target the Omicron subvariant BA.5, the dominant version of the virus.",
+          "copyright": "Charity Rachelle for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2022/08/30/multimedia/HFO-WELL-OMICRON-BOOSTER2/HFO-WELL-OMICRON-BOOSTER2-threeByTwoSmallAt2X.jpg",
+          "format": "threeByTwoSmallAt2X",
+          "height": 400,
+          "width": 600,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "The new shots target the Omicron subvariant BA.5, the dominant version of the virus.",
+          "copyright": "Charity Rachelle for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2022/08/30/multimedia/HFO-WELL-OMICRON-BOOSTER2/HFO-WELL-OMICRON-BOOSTER2-thumbLarge.jpg",
+          "format": "Large Thumbnail",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "The new shots target the Omicron subvariant BA.5, the dominant version of the virus.",
+          "copyright": "Charity Rachelle for The New York Times"
+        }
+      ],
+      "short_url": "https://nyti.ms/3PYXk2x"
+    },
+    {
+      "section": "well",
+      "subsection": "",
+      "title": "As Serena Williams Plays Her Final Matches, a Generation Is Inspired",
+      "abstract": "Women across the country have seen their own lives reflected in the triumphs and trials of the tennis superstar. Cue the swell of emotion.",
+      "url": "https://www.nytimes.com/2022/09/02/well/serena-williams-women-fans.html",
+      "uri": "nyt://article/6583b826-427b-51a0-a28b-7384d969a673",
+      "byline": "By Alisha Haridasani Gupta",
+      "item_type": "Article",
+      "updated_date": "2022-09-03T11:33:43-04:00",
+      "created_date": "2022-09-02T18:41:32-04:00",
+      "published_date": "2022-09-02T18:41:32-04:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "Tennis",
+        "Parenting",
+        "Race and Ethnicity",
+        "Women and Girls"
+      ],
+      "org_facet": [],
+      "per_facet": [
+        "Williams, Serena"
+      ],
+      "geo_facet": [],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2022/09/02/multimedia/02well-serena-win1/02well-serena-win1-superJumbo.jpg",
+          "format": "Super Jumbo",
+          "height": 1217,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Michelle V. Agins/The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2022/09/02/multimedia/02well-serena-win1/02well-serena-win1-threeByTwoSmallAt2X.jpg",
+          "format": "threeByTwoSmallAt2X",
+          "height": 400,
+          "width": 600,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Michelle V. Agins/The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2022/09/02/multimedia/02well-serena-win1/02well-serena-win1-thumbLarge.jpg",
+          "format": "Large Thumbnail",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Michelle V. Agins/The New York Times"
+        }
+      ],
+      "short_url": "https://nyti.ms/3ejQzLR"
+    },
+    {
+      "section": "well",
+      "subsection": "live",
+      "title": "Why We Get Motion Sick, and How to Stop It",
+      "abstract": "Experts say prevention is the best cure.",
+      "url": "https://www.nytimes.com/2022/09/01/well/live/motion-sickness-tips.html",
+      "uri": "nyt://article/5556a04e-c5d0-5000-bcd4-2d6115933c05",
+      "byline": "By Melinda Wenner Moyer",
+      "item_type": "Article",
+      "updated_date": "2022-09-02T12:21:17-04:00",
+      "created_date": "2022-09-01T20:00:03-04:00",
+      "published_date": "2022-09-01T20:00:03-04:00",
+      "material_type_facet": "",
+      "kicker": "The Well Newsletter",
+      "des_facet": [
+        "Content Type: Service",
+        "Parenting",
+        "Doctors"
+      ],
+      "org_facet": [],
+      "per_facet": [],
+      "geo_facet": [],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2022/09/06/well/01Well-NL-MotionSickness/01Well-NL-MotionSickness-superJumbo.png",
+          "format": "Super Jumbo",
+          "height": 1166,
+          "width": 1750,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Illustration by Guillem Casasus; Photograph by Getty Images"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2022/09/06/well/01Well-NL-MotionSickness/01Well-NL-MotionSickness-threeByTwoSmallAt2X.png",
+          "format": "threeByTwoSmallAt2X",
+          "height": 400,
+          "width": 600,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Illustration by Guillem Casasus; Photograph by Getty Images"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2022/09/06/well/01Well-NL-MotionSickness/01Well-NL-MotionSickness-thumbLarge.png",
+          "format": "Large Thumbnail",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Illustration by Guillem Casasus; Photograph by Getty Images"
+        }
+      ],
+      "short_url": "https://nyti.ms/3q6pyOA"
+    },
+    {
+      "section": "well",
+      "subsection": "live",
+      "title": "How to Stay Hydrated in a Heat Wave",
+      "abstract": "Many countries across the globe are facing dangerously high temperatures. Here’s what to do to stay safe.",
+      "url": "https://www.nytimes.com/article/hydration-heat-wave.html",
+      "uri": "nyt://article/1880fd93-a8f1-592d-bfb4-563de800b4a5",
+      "byline": "By Hannah Seo",
+      "item_type": "Article",
+      "updated_date": "2022-07-19T15:01:12-04:00",
+      "created_date": "2022-07-15T17:41:28-04:00",
+      "published_date": "2022-07-15T17:41:28-04:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "Content Type: Service",
+        "Heat and Heat Waves",
+        "Weather",
+        "Diet and Nutrition",
+        "Dehydration",
+        "Water",
+        "Fruit",
+        "Exercise",
+        "Coffee",
+        "Caffeine"
+      ],
+      "org_facet": [],
+      "per_facet": [],
+      "geo_facet": [],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2022/07/15/well/15WELL-HYDRATION1/15WELL-HYDRATION1-superJumbo.jpg",
+          "format": "Super Jumbo",
+          "height": 1366,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Getty Images"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2022/07/15/well/15WELL-HYDRATION1/15WELL-HYDRATION1-threeByTwoSmallAt2X-v2.jpg",
+          "format": "threeByTwoSmallAt2X",
+          "height": 324,
+          "width": 486,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Getty Images"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2022/07/15/well/15WELL-HYDRATION1/15WELL-HYDRATION1-thumbLarge.jpg",
+          "format": "Large Thumbnail",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Getty Images"
+        }
+      ],
+      "short_url": "https://nyti.ms/3POqDFF"
+    },
+    {
+      "section": "arts",
+      "subsection": "music",
+      "title": "The Sound of the Vikings, With a Heavy Metal Twist",
+      "abstract": "The band Heilung performs on replica instruments to recreate the sound world of pre-Christian Europe and bring it into the modern age.",
+      "url": "https://www.nytimes.com/2022/09/02/arts/music/the-sound-of-the-vikings-with-a-heavy-metal-twist.html",
+      "uri": "nyt://article/4658d91f-e400-51c1-86ff-9defd77bb83c",
+      "byline": "Imogen West-Knights",
+      "item_type": "Article",
+      "updated_date": "2022-09-02T13:53:56-04:00",
+      "created_date": "2022-09-02T13:20:31-04:00",
+      "published_date": "2022-09-02T13:20:31-04:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "Pop and Rock Music",
+        "Folk Music",
+        "Vikings",
+        "Content Type: Personal Profile"
+      ],
+      "org_facet": [
+        "Heilung (Music Group)"
+      ],
+      "per_facet": [],
+      "geo_facet": [
+        "Norway"
+      ],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2022/09/02/arts/02viking1/merlin_212156964_a5d8ba61-0c7a-451b-8148-44ff355b36f2-superJumbo.jpg",
+          "format": "Super Jumbo",
+          "height": 1365,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Members of the band Heilung at the beach near the Viking burial mounds in Borre, Norway. Clockwise from top: Maria Franz, Christopher Juul and Kai Uwe Faust.",
+          "copyright": "David B. Torch for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2022/09/02/arts/02viking1/merlin_212156964_a5d8ba61-0c7a-451b-8148-44ff355b36f2-threeByTwoSmallAt2X.jpg",
+          "format": "threeByTwoSmallAt2X",
+          "height": 400,
+          "width": 600,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Members of the band Heilung at the beach near the Viking burial mounds in Borre, Norway. Clockwise from top: Maria Franz, Christopher Juul and Kai Uwe Faust.",
+          "copyright": "David B. Torch for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2022/09/02/arts/02viking1/02viking1-thumbLarge.jpg",
+          "format": "Large Thumbnail",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Members of the band Heilung at the beach near the Viking burial mounds in Borre, Norway. Clockwise from top: Maria Franz, Christopher Juul and Kai Uwe Faust.",
+          "copyright": "David B. Torch for The New York Times"
+        }
+      ],
+      "short_url": "https://nyti.ms/3TFiuWI"
+    }
+  ]
+}

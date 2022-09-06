@@ -34,7 +34,7 @@ class NewsRepositoryImpl @Inject constructor(
         return Pair(newsDao.getCategoryNews(category), hasError)
     }
 
-    private suspend fun <T> safeApiCall(
+   override suspend fun <T> safeApiCall(
         apiCall: suspend () -> T
     ): NetworkResult<T> {
         return withContext(Dispatchers.IO) {
