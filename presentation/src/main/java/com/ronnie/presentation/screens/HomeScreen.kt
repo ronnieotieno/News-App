@@ -13,6 +13,8 @@ import androidx.compose.runtime.MutableState
 import androidx.compose.runtime.getValue
 import androidx.compose.runtime.mutableStateOf
 import androidx.compose.runtime.remember
+import androidx.compose.ui.Modifier
+import androidx.compose.ui.platform.testTag
 import androidx.compose.ui.res.stringArrayResource
 import androidx.compose.ui.res.stringResource
 import androidx.lifecycle.compose.ExperimentalLifecycleComposeApi
@@ -52,7 +54,7 @@ fun HomeScreen(navController: NavController, viewModel: NewsViewModel) {
             }
         }
     }
-    Scaffold(scaffoldState = scaffoldState) {
+    Scaffold(scaffoldState = scaffoldState, modifier = Modifier.testTag("main")) {
         LazyColumn(state = listState) {
             item {
                 HomeHeader(newsCategories = newsCategories, selectedCategory =  selectedCategory,
