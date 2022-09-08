@@ -53,8 +53,8 @@ Libraries used in the whole application are:
       related data in a lifecycle conscious way
     - [Compose](https://developer.android.com/courses/pathways/compose) - A modern declarative way
       to build android ui
-    - [Paging 3](https://developer.android.com/topic/libraries/architecture/paging/v3-overview) used
-      for paging
+    - [Room](https://developer.android.com/training/data-storage/room) - Provides abstraction layer
+      over SQLite used for cache
 - [Retrofit](https://square.github.io/retrofit/) - Type-safe HTTP client and supports coroutines out
   of the box. Used for the network calls.
 - [okhttp-logging-interceptor](https://github.com/square/okhttp/blob/master/okhttp-logging-interceptor/README.md)
