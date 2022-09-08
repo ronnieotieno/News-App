@@ -19,7 +19,7 @@ Build System : [Gradle](https://gradle.org/)
 ## Prerequisite
 
 This project uses the Gradle build system. To build this project, use the
-`gradlew build` command or use "Import Project" in Android Studio.
+`./gradlew build` command or use "Import Project" in Android Studio.
 
 ## App
 
@@ -33,7 +33,7 @@ Android Jetpack components. MVVM allows for the separation of concern which also
 easier. The app has composable screen that communicates to ViewModel which in turn communicates to
 the usecase which communicates with Repository to get data.
 
-|<img src="screenshots/arch.png" width=300 height=500/>|
+|<img src="screenshots/arch.png" width=300 height=500 style="display: block; margin: 0 auto"/>|
 |:----:|
 
 ## Testing
@@ -68,11 +68,11 @@ Libraries used in the whole application are:
 
 ## Screenshots
 
-|<img src="screenshots/loading.png" width=300/>|<img src="screenshots/list.png" width=300/>|
+|<img src="screenshots/loading.png" width=300 style="display: block; margin: 0 auto" />|<img src="screenshots/list.png" width=300 style="display: block; margin: 0 auto" />|
 |:----:|:----:|
 
-|<img src="screenshots/detail.png" width=300/>|<img src="screenshots/error.png" width=300/>|
+|<img src="screenshots/detail.png" width=300 style="display: block; margin: 0 auto" />|<img src="screenshots/error.png" width=300 style="display: block; margin: 0 auto" />|
 |:----:|:----:|
 
-|<img src="screenshots/unable.png" width=300/>|<img src="screenshots/webview.png" width=300/>|
+|<img src="screenshots/unable.png" width=300 style="display: block; margin: 0 auto" />|<img src="screenshots/webview.png" width=300 style="display: block; margin: 0 auto" />|
 |:----:|:----:|
