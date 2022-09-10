@@ -1,6 +1,7 @@
 package com.ronnie.data.di
 
 import android.content.Context
+import androidx.room.Room
 import com.ronnie.data.BuildConfig
 import com.ronnie.data.api.NewsApiService
 import com.ronnie.data.local.NewsDatabase
@@ -64,6 +65,7 @@ object DataModule {
     @Provides
     @Singleton
     fun providesDB(@ApplicationContext appContext: Context): NewsDatabase {
-        return NewsDatabase.invoke(appContext)
+        return Room.databaseBuilder(appContext, NewsDatabase::class.java, "news_db")
+            .fallbackToDestructiveMigration().build()
     }
 }
